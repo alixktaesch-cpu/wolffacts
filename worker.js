@@ -1,5 +1,5 @@
-const GITHUB_USER = "YOUR_GITHUB_USERNAME";
-const REPO = "YOUR_REPO_NAME";
+const GITHUB_USER = "=alixktaesch-cpu";
+const REPO = "wolffacts";
 const BRANCH = "main";
 
 const FACT_FILES = {
