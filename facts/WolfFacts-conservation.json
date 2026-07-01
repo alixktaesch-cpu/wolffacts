@@ -1,0 +1,452 @@
+[
+  {
+    "id": "CONS-001",
+    "category": "conservation",
+    "rarity": "Uncommon",
+    "fact": "🌲 Gray wolves were reintroduced to Yellowstone National Park in 1995 and 1996."
+  },
+  {
+    "id": "CONS-002",
+    "category": "conservation",
+    "rarity": "Uncommon",
+    "fact": "🌲 Yellowstone's wolf reintroduction is one of the most famous wildlife restoration projects in the world."
+  },
+  {
+    "id": "CONS-003",
+    "category": "conservation",
+    "rarity": "Uncommon",
+    "fact": "🌲 Wolves had been absent as a breeding population in Yellowstone for decades before reintroduction."
+  },
+  {
+    "id": "CONS-004",
+    "category": "conservation",
+    "rarity": "Uncommon",
+    "fact": "🌲 Wolves in Yellowstone prey heavily on elk, but their ecological effects are complex and still studied."
+  },
+  {
+    "id": "CONS-005",
+    "category": "conservation",
+    "rarity": "Uncommon",
+    "fact": "🌲 A trophic cascade happens when a top predator affects other parts of an ecosystem through prey behavior or numbers."
+  },
+  {
+    "id": "CONS-006",
+    "category": "conservation",
+    "rarity": "Uncommon",
+    "fact": "🌲 Yellowstone wolves are often discussed as an example of trophic cascade, though scientists debate the details."
+  },
+  {
+    "id": "CONS-007",
+    "category": "conservation",
+    "rarity": "Uncommon",
+    "fact": "🌲 Wolves provide carcasses that feed scavengers such as ravens, eagles, coyotes, foxes, bears, and beetles."
+  },
+  {
+    "id": "CONS-008",
+    "category": "conservation",
+    "rarity": "Uncommon",
+    "fact": "🌲 Wolf recovery can help restore ecological relationships that were missing when wolves were removed."
+  },
+  {
+    "id": "CONS-009",
+    "category": "conservation",
+    "rarity": "Uncommon",
+    "fact": "🌲 Wolf conservation is often controversial because wolves affect livestock, hunting interests, and local communities."
+  },
+  {
+    "id": "CONS-010",
+    "category": "conservation",
+    "rarity": "Uncommon",
+    "fact": "🌲 Coexistence tools can reduce conflict between wolves and livestock."
+  },
+  {
+    "id": "CONS-011",
+    "category": "conservation",
+    "rarity": "Uncommon",
+    "fact": "🌲 Range riders can help watch livestock and discourage wolf-livestock conflicts."
+  },
+  {
+    "id": "CONS-012",
+    "category": "conservation",
+    "rarity": "Uncommon",
+    "fact": "🌲 Fladry uses lines of flags that may temporarily discourage wolves from entering an area."
+  },
+  {
+    "id": "CONS-013",
+    "category": "conservation",
+    "rarity": "Uncommon",
+    "fact": "🌲 Livestock guardian dogs are sometimes used to help protect herds in wolf country."
+  },
+  {
+    "id": "CONS-014",
+    "category": "conservation",
+    "rarity": "Uncommon",
+    "fact": "🌲 Removing livestock carcasses can reduce attractants that draw wolves near ranches."
+  },
+  {
+    "id": "CONS-015",
+    "category": "conservation",
+    "rarity": "Uncommon",
+    "fact": "🌲 Wildlife corridors help wolves disperse and maintain genetic diversity."
+  },
+  {
+    "id": "CONS-016",
+    "category": "conservation",
+    "rarity": "Uncommon",
+    "fact": "🌲 Road crossings can be dangerous for dispersing wolves."
+  },
+  {
+    "id": "CONS-017",
+    "category": "conservation",
+    "rarity": "Uncommon",
+    "fact": "🌲 Genetic diversity matters because isolated wolf populations can suffer from inbreeding."
+  },
+  {
+    "id": "CONS-018",
+    "category": "conservation",
+    "rarity": "Uncommon",
+    "fact": "🌲 Mexican wolf recovery depends on releases, wild-born pups, and genetic management."
+  },
+  {
+    "id": "CONS-019",
+    "category": "conservation",
+    "rarity": "Uncommon",
+    "fact": "🌲 Red wolf recovery is one of the most challenging carnivore conservation programs in the United States."
+  },
+  {
+    "id": "CONS-020",
+    "category": "conservation",
+    "rarity": "Uncommon",
+    "fact": "🌲 Red wolves are critically endangered in the wild."
+  },
+  {
+    "id": "CONS-021",
+    "category": "conservation",
+    "rarity": "Uncommon",
+    "fact": "🌲 Captive breeding programs have helped prevent red wolves from disappearing completely."
+  },
+  {
+    "id": "CONS-022",
+    "category": "conservation",
+    "rarity": "Uncommon",
+    "fact": "🌲 Ethiopian wolves are threatened by habitat loss, disease, and conflict with domestic dogs."
+  },
+  {
+    "id": "CONS-023",
+    "category": "conservation",
+    "rarity": "Uncommon",
+    "fact": "🌲 Rabies and canine distemper from domestic dogs can be serious threats to Ethiopian wolves."
+  },
+  {
+    "id": "CONS-024",
+    "category": "conservation",
+    "rarity": "Uncommon",
+    "fact": "🌲 Vaccination campaigns can help protect endangered wolves from disease."
+  },
+  {
+    "id": "CONS-025",
+    "category": "conservation",
+    "rarity": "Uncommon",
+    "fact": "🌲 Wolves often need large landscapes, which makes conservation a land-use challenge."
+  },
+  {
+    "id": "CONS-026",
+    "category": "conservation",
+    "rarity": "Uncommon",
+    "fact": "🌲 Public attitudes toward wolves can strongly influence wolf policy."
+  },
+  {
+    "id": "CONS-027",
+    "category": "conservation",
+    "rarity": "Uncommon",
+    "fact": "🌲 Some people value wolves for ecosystem health, tourism, and wilderness identity."
+  },
+  {
+    "id": "CONS-028",
+    "category": "conservation",
+    "rarity": "Uncommon",
+    "fact": "🌲 Some people oppose wolves because of livestock losses, safety fears, or competition for game animals."
+  },
+  {
+    "id": "CONS-029",
+    "category": "conservation",
+    "rarity": "Uncommon",
+    "fact": "🌲 Good wolf management usually requires science, local knowledge, and honest conflict reduction."
+  },
+  {
+    "id": "CONS-030",
+    "category": "conservation",
+    "rarity": "Uncommon",
+    "fact": "🌲 Wolf tourism can bring economic value to places where wolves are visible, such as Yellowstone's Lamar Valley."
+  },
+  {
+    "id": "CONS-031",
+    "category": "conservation",
+    "rarity": "Uncommon",
+    "fact": "🌲 Ethical wolf watching means keeping distance and not disturbing animals."
+  },
+  {
+    "id": "CONS-032",
+    "category": "conservation",
+    "rarity": "Uncommon",
+    "fact": "🌲 Feeding wolves is harmful because it can create dangerous food-conditioning."
+  },
+  {
+    "id": "CONS-033",
+    "category": "conservation",
+    "rarity": "Uncommon",
+    "fact": "🌲 Wolves recolonized parts of Europe naturally after legal protection and changing land use."
+  },
+  {
+    "id": "CONS-034",
+    "category": "conservation",
+    "rarity": "Uncommon",
+    "fact": "🌲 Europe's wolf recovery shows that large carnivores can return to human-dominated landscapes."
+  },
+  {
+    "id": "CONS-035",
+    "category": "conservation",
+    "rarity": "Uncommon",
+    "fact": "🌲 Habitat, prey, roads, laws, and human tolerance all shape where wolves can survive."
+  },
+  {
+    "id": "CONS-036",
+    "category": "conservation",
+    "rarity": "Uncommon",
+    "fact": "🌲 Wolf populations can grow quickly when prey is available and persecution is reduced."
+  },
+  {
+    "id": "CONS-037",
+    "category": "conservation",
+    "rarity": "Uncommon",
+    "fact": "🌲 Gray wolves are globally widespread, but some local populations remain vulnerable."
+  },
+  {
+    "id": "CONS-038",
+    "category": "conservation",
+    "rarity": "Uncommon",
+    "fact": "🌲 Red wolves and Ethiopian wolves face far more severe conservation risk than gray wolves overall."
+  },
+  {
+    "id": "CONS-039",
+    "category": "conservation",
+    "rarity": "Uncommon",
+    "fact": "🌲 Protecting wolves often also protects large connected habitats used by many other species."
+  },
+  {
+    "id": "CONS-040",
+    "category": "conservation",
+    "rarity": "Uncommon",
+    "fact": "🌲 GPS collars help managers understand dispersal, territory, survival, and conflict risk."
+  },
+  {
+    "id": "CONS-041",
+    "category": "conservation",
+    "rarity": "Uncommon",
+    "fact": "🌲 Camera traps allow researchers to monitor wolves without constant human presence."
+  },
+  {
+    "id": "CONS-042",
+    "category": "conservation",
+    "rarity": "Uncommon",
+    "fact": "🌲 Conservation is not just about numbers; it is also about genetic health, breeding success, and safe habitat."
+  },
+  {
+    "id": "CONS-043",
+    "category": "conservation",
+    "rarity": "Uncommon",
+    "fact": "🌲 Wolves can coexist with people, but coexistence usually requires effort and realistic expectations."
+  },
+  {
+    "id": "CONS-044",
+    "category": "conservation",
+    "rarity": "Uncommon",
+    "fact": "🌲 Climate change may affect wolves indirectly by changing prey, snow, habitat, and disease patterns."
+  },
+  {
+    "id": "CONS-045",
+    "category": "conservation",
+    "rarity": "Uncommon",
+    "fact": "🌲 Conservation facts may change over time, especially population counts and legal protections."
+  },
+  {
+    "id": "CONS-046",
+    "category": "conservation",
+    "rarity": "Uncommon",
+    "fact": "🌲 Wolf recovery shows that predator restoration can be biologically possible and socially complicated."
+  },
+  {
+    "id": "CONS-047",
+    "category": "conservation",
+    "rarity": "Uncommon",
+    "fact": "🌲 Healthy ecosystems often include predators, prey, scavengers, plants, and people making difficult choices."
+  },
+  {
+    "id": "CONS-048",
+    "category": "conservation",
+    "rarity": "Uncommon",
+    "fact": "🌲 Healthy ecosystems often include predators, prey, scavengers, plants, and people making difficult choices."
+  },
+  {
+    "id": "CONS-049",
+    "category": "conservation",
+    "rarity": "Uncommon",
+    "fact": "🌲 Healthy ecosystems often include predators, prey, scavengers, plants, and people making difficult choices."
+  },
+  {
+    "id": "CONS-050",
+    "category": "conservation",
+    "rarity": "Uncommon",
+    "fact": "🌲 Wolves remind conservationists that saving a species often means saving relationships between species."
+  },
+  {
+    "id": "CONS-051",
+    "category": "conservation",
+    "rarity": "Uncommon",
+    "fact": "🌲 Wolves are conservation icons because their survival depends on science, space, and tolerance."
+  },
+  {
+    "id": "CONS-052",
+    "category": "conservation",
+    "rarity": "Uncommon",
+    "fact": "🌲 Healthy ecosystems often include predators, prey, scavengers, plants, and people making difficult choices."
+  },
+  {
+    "id": "CONS-053",
+    "category": "conservation",
+    "rarity": "Uncommon",
+    "fact": "🌲 Wolf recovery shows that predator restoration can be biologically possible and socially complicated."
+  },
+  {
+    "id": "CONS-054",
+    "category": "conservation",
+    "rarity": "Uncommon",
+    "fact": "🌲 Wolves are conservation icons because their survival depends on science, space, and tolerance."
+  },
+  {
+    "id": "CONS-055",
+    "category": "conservation",
+    "rarity": "Uncommon",
+    "fact": "🌲 Healthy ecosystems often include predators, prey, scavengers, plants, and people making difficult choices."
+  },
+  {
+    "id": "CONS-056",
+    "category": "conservation",
+    "rarity": "Uncommon",
+    "fact": "🌲 Wolves are conservation icons because their survival depends on science, space, and tolerance."
+  },
+  {
+    "id": "CONS-057",
+    "category": "conservation",
+    "rarity": "Uncommon",
+    "fact": "🌲 Healthy ecosystems often include predators, prey, scavengers, plants, and people making difficult choices."
+  },
+  {
+    "id": "CONS-058",
+    "category": "conservation",
+    "rarity": "Uncommon",
+    "fact": "🌲 Wolves are conservation icons because their survival depends on science, space, and tolerance."
+  },
+  {
+    "id": "CONS-059",
+    "category": "conservation",
+    "rarity": "Uncommon",
+    "fact": "🌲 Wolf conservation is not about making wolves harmless; it is about making coexistence possible."
+  },
+  {
+    "id": "CONS-060",
+    "category": "conservation",
+    "rarity": "Uncommon",
+    "fact": "🌲 Wolf conservation is not about making wolves harmless; it is about making coexistence possible."
+  },
+  {
+    "id": "CONS-061",
+    "category": "conservation",
+    "rarity": "Uncommon",
+    "fact": "🌲 Wolf conservation is not about making wolves harmless; it is about making coexistence possible."
+  },
+  {
+    "id": "CONS-062",
+    "category": "conservation",
+    "rarity": "Uncommon",
+    "fact": "🌲 Healthy ecosystems often include predators, prey, scavengers, plants, and people making difficult choices."
+  },
+  {
+    "id": "CONS-063",
+    "category": "conservation",
+    "rarity": "Uncommon",
+    "fact": "🌲 Wolf conservation is not about making wolves harmless; it is about making coexistence possible."
+  },
+  {
+    "id": "CONS-064",
+    "category": "conservation",
+    "rarity": "Uncommon",
+    "fact": "🌲 Healthy ecosystems often include predators, prey, scavengers, plants, and people making difficult choices."
+  },
+  {
+    "id": "CONS-065",
+    "category": "conservation",
+    "rarity": "Uncommon",
+    "fact": "🌲 Wolves remind conservationists that saving a species often means saving relationships between species."
+  },
+  {
+    "id": "CONS-066",
+    "category": "conservation",
+    "rarity": "Uncommon",
+    "fact": "🌲 Healthy ecosystems often include predators, prey, scavengers, plants, and people making difficult choices."
+  },
+  {
+    "id": "CONS-067",
+    "category": "conservation",
+    "rarity": "Uncommon",
+    "fact": "🌲 Wolf recovery shows that predator restoration can be biologically possible and socially complicated."
+  },
+  {
+    "id": "CONS-068",
+    "category": "conservation",
+    "rarity": "Uncommon",
+    "fact": "🌲 Wolf recovery shows that predator restoration can be biologically possible and socially complicated."
+  },
+  {
+    "id": "CONS-069",
+    "category": "conservation",
+    "rarity": "Uncommon",
+    "fact": "🌲 Healthy ecosystems often include predators, prey, scavengers, plants, and people making difficult choices."
+  },
+  {
+    "id": "CONS-070",
+    "category": "conservation",
+    "rarity": "Uncommon",
+    "fact": "🌲 Wolf conservation is not about making wolves harmless; it is about making coexistence possible."
+  },
+  {
+    "id": "CONS-071",
+    "category": "conservation",
+    "rarity": "Uncommon",
+    "fact": "🌲 Wolves are conservation icons because their survival depends on science, space, and tolerance."
+  },
+  {
+    "id": "CONS-072",
+    "category": "conservation",
+    "rarity": "Uncommon",
+    "fact": "🌲 Wolf conservation is not about making wolves harmless; it is about making coexistence possible."
+  },
+  {
+    "id": "CONS-073",
+    "category": "conservation",
+    "rarity": "Uncommon",
+    "fact": "🌲 Wolf conservation is not about making wolves harmless; it is about making coexistence possible."
+  },
+  {
+    "id": "CONS-074",
+    "category": "conservation",
+    "rarity": "Uncommon",
+    "fact": "🌲 Wolf conservation is not about making wolves harmless; it is about making coexistence possible."
+  },
+  {
+    "id": "CONS-075",
+    "category": "conservation",
+    "rarity": "Uncommon",
+    "fact": "🌲 Wolves remind conservationists that saving a species often means saving relationships between species."
+  }
+]

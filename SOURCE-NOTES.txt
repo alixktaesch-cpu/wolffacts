@@ -1,0 +1,8 @@
+Sources checked for core fact accuracy:
+- International Wolf Center: wolf communication, biology, behavior, family groups, dispersal
+- U.S. Fish & Wildlife Service: gray wolf, Mexican wolf, red wolf recovery
+- National Park Service / Yellowstone: wolf reintroduction and ecosystem effects
+- National Geographic Education: wolves of Yellowstone overview
+- IUCN and conservation literature summaries for species-level context
+
+Note: Twitch facts are written for entertainment but grounded in broad wolf biology. Current population counts and legal status can change, so avoid embedding exact live counts in chat commands unless you update them regularly.

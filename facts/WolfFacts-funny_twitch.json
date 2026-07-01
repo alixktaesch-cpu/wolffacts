@@ -1,0 +1,602 @@
+[
+  {
+    "id": "FUNN-001",
+    "category": "funny_twitch",
+    "rarity": "Common",
+    "fact": "😂 Wolves do not howl at the moon. The moon just has excellent PR."
+  },
+  {
+    "id": "FUNN-002",
+    "category": "funny_twitch",
+    "rarity": "Common",
+    "fact": "😂 Wolf pups wrestle constantly. Basically puppy WWE with more fluff."
+  },
+  {
+    "id": "FUNN-003",
+    "category": "funny_twitch",
+    "rarity": "Common",
+    "fact": "😂 Wolves can travel many miles in a day. Meanwhile, I need motivation to cross the room."
+  },
+  {
+    "id": "FUNN-004",
+    "category": "funny_twitch",
+    "rarity": "Common",
+    "fact": "😂 A wolf's nose is so strong it could probably find the snack you hid from yourself."
+  },
+  {
+    "id": "FUNN-005",
+    "category": "funny_twitch",
+    "rarity": "Common",
+    "fact": "😂 Wolves use body language to communicate, so yes, they invented emotes."
+  },
+  {
+    "id": "FUNN-006",
+    "category": "funny_twitch",
+    "rarity": "Common",
+    "fact": "😂 Wolves scent-mark territory. Thankfully, Twitch has usernames instead."
+  },
+  {
+    "id": "FUNN-007",
+    "category": "funny_twitch",
+    "rarity": "Common",
+    "fact": "😂 A wolf pack is usually a family. So yes, the group chat is genetic."
+  },
+  {
+    "id": "FUNN-008",
+    "category": "funny_twitch",
+    "rarity": "Common",
+    "fact": "😂 Wolves can recognize voices. Your lurkers may be silent, but the wolves know."
+  },
+  {
+    "id": "FUNN-009",
+    "category": "funny_twitch",
+    "rarity": "Common",
+    "fact": "😂 Wolves cache food for later. Nature's version of saving snacks for after stream."
+  },
+  {
+    "id": "FUNN-010",
+    "category": "funny_twitch",
+    "rarity": "Common",
+    "fact": "😂 Wolves are built for endurance, which is more than I can say for my attention span."
+  },
+  {
+    "id": "FUNN-011",
+    "category": "funny_twitch",
+    "rarity": "Common",
+    "fact": "😂 A lone wolf is usually just looking for family. Relatable, but with more fur."
+  },
+  {
+    "id": "FUNN-012",
+    "category": "funny_twitch",
+    "rarity": "Common",
+    "fact": "😂 Wolves have huge paws for snow. Built-in winter boots, no microtransactions."
+  },
+  {
+    "id": "FUNN-013",
+    "category": "funny_twitch",
+    "rarity": "Common",
+    "fact": "😂 Wolves can make a small pack sound bigger with chorus howls. Twitch raid energy."
+  },
+  {
+    "id": "FUNN-014",
+    "category": "funny_twitch",
+    "rarity": "Common",
+    "fact": "😂 Wolves shed their winter coats. Somewhere, a vacuum cleaner fears them."
+  },
+  {
+    "id": "FUNN-015",
+    "category": "funny_twitch",
+    "rarity": "Common",
+    "fact": "😂 Imagine if humans had wolf-style tail language. Every awkward moment would be public."
+  },
+  {
+    "id": "FUNN-016",
+    "category": "funny_twitch",
+    "rarity": "Common",
+    "fact": "😂 Wolf pups are born helpless and tiny. Then they become tiny chaos potatoes."
+  },
+  {
+    "id": "FUNN-017",
+    "category": "funny_twitch",
+    "rarity": "Common",
+    "fact": "😂 Wolves may roll in weird smells. Dogs inherited the worst possible hobby."
+  },
+  {
+    "id": "FUNN-018",
+    "category": "funny_twitch",
+    "rarity": "Common",
+    "fact": "😂 Wolves are not dogs, but dogs definitely kept the drama."
+  },
+  {
+    "id": "FUNN-019",
+    "category": "funny_twitch",
+    "rarity": "Common",
+    "fact": "😂 Wolves can eat a big meal and then nap. Finally, representation."
+  },
+  {
+    "id": "FUNN-020",
+    "category": "funny_twitch",
+    "rarity": "Common",
+    "fact": "😂 Wolves are cautious around new things. Same energy as chat seeing a new sound alert."
+  },
+  {
+    "id": "FUNN-021",
+    "category": "funny_twitch",
+    "rarity": "Common",
+    "fact": "😂 Wolves use rendezvous sites for pups. Basically daycare, but in the wilderness."
+  },
+  {
+    "id": "FUNN-022",
+    "category": "funny_twitch",
+    "rarity": "Common",
+    "fact": "😂 Wolves can be active at night. Of course they are streamers."
+  },
+  {
+    "id": "FUNN-023",
+    "category": "funny_twitch",
+    "rarity": "Common",
+    "fact": "😂 Wolves have strong social bonds. Pack loyalty: activated."
+  },
+  {
+    "id": "FUNN-024",
+    "category": "funny_twitch",
+    "rarity": "Common",
+    "fact": "😂 Wolves are apex predators, but even apex predators probably hate stepping on sticks."
+  },
+  {
+    "id": "FUNN-025",
+    "category": "funny_twitch",
+    "rarity": "Common",
+    "fact": "😂 Wolves do not need a full moon to be dramatic."
+  },
+  {
+    "id": "FUNN-026",
+    "category": "funny_twitch",
+    "rarity": "Common",
+    "fact": "😂 A wolf howl can travel a long way. Discord notification but make it wilderness."
+  },
+  {
+    "id": "FUNN-027",
+    "category": "funny_twitch",
+    "rarity": "Common",
+    "fact": "😂 Wolves can smell prey from far away. They also know who opened chips."
+  },
+  {
+    "id": "FUNN-028",
+    "category": "funny_twitch",
+    "rarity": "Common",
+    "fact": "😂 Wolves walk on their toes. Fancy little wilderness ballerinas."
+  },
+  {
+    "id": "FUNN-029",
+    "category": "funny_twitch",
+    "rarity": "Common",
+    "fact": "😂 Wolves have 42 teeth. Smile for the camera, maybe from a distance."
+  },
+  {
+    "id": "FUNN-030",
+    "category": "funny_twitch",
+    "rarity": "Common",
+    "fact": "😂 Wolves cannot retract their claws. Built-in tap shoes on hard floors."
+  },
+  {
+    "id": "FUNN-031",
+    "category": "funny_twitch",
+    "rarity": "Common",
+    "fact": "😂 Wolf fur is extremely insulating. Cozy mode: permanently enabled."
+  },
+  {
+    "id": "FUNN-032",
+    "category": "funny_twitch",
+    "rarity": "Common",
+    "fact": "😂 Wolves often avoid unnecessary fights. Better conflict resolution than some group chats."
+  },
+  {
+    "id": "FUNN-033",
+    "category": "funny_twitch",
+    "rarity": "Common",
+    "fact": "😂 Wolves may use roads and trails for easy travel. Work smarter, not harder."
+  },
+  {
+    "id": "FUNN-034",
+    "category": "funny_twitch",
+    "rarity": "Common",
+    "fact": "😂 Wolves can cross rivers. Streamer waterproofing not included."
+  },
+  {
+    "id": "FUNN-035",
+    "category": "funny_twitch",
+    "rarity": "Common",
+    "fact": "😂 Wolves use facial expressions. Some are probably just side-eye."
+  },
+  {
+    "id": "FUNN-036",
+    "category": "funny_twitch",
+    "rarity": "Common",
+    "fact": "😂 A pack howl can sound spooky, but it may just mean, 'Where are you guys?'"
+  },
+  {
+    "id": "FUNN-037",
+    "category": "funny_twitch",
+    "rarity": "Common",
+    "fact": "😂 Wolves may hide food. Secret snack stash confirmed."
+  },
+  {
+    "id": "FUNN-038",
+    "category": "funny_twitch",
+    "rarity": "Common",
+    "fact": "😂 Wolves are cautious around humans. Honestly, fair."
+  },
+  {
+    "id": "FUNN-039",
+    "category": "funny_twitch",
+    "rarity": "Common",
+    "fact": "😂 Wolves have big winter coats. Fashion week, but make it survival."
+  },
+  {
+    "id": "FUNN-040",
+    "category": "funny_twitch",
+    "rarity": "Common",
+    "fact": "😂 Wolf tracks can form a neat line. Even their footprints have organization."
+  },
+  {
+    "id": "FUNN-041",
+    "category": "funny_twitch",
+    "rarity": "Common",
+    "fact": "😂 Wolves are not villains. They simply have excellent theme music."
+  },
+  {
+    "id": "FUNN-042",
+    "category": "funny_twitch",
+    "rarity": "Common",
+    "fact": "😂 Wolves are not obsessed with the moon, but the aesthetic is undefeated."
+  },
+  {
+    "id": "FUNN-043",
+    "category": "funny_twitch",
+    "rarity": "Common",
+    "fact": "😂 Wolves can look majestic while doing absolutely nothing. Teach me."
+  },
+  {
+    "id": "FUNN-044",
+    "category": "funny_twitch",
+    "rarity": "Common",
+    "fact": "😂 Wolves have pack drama, but at least they do not subtweet."
+  },
+  {
+    "id": "FUNN-045",
+    "category": "funny_twitch",
+    "rarity": "Common",
+    "fact": "😂 Wolves can make many sounds. Howl, whine, bark, growl, and probably 'feed me.'"
+  },
+  {
+    "id": "FUNN-046",
+    "category": "funny_twitch",
+    "rarity": "Common",
+    "fact": "😂 Congratulations, you have unlocked a certified awooooo moment."
+  },
+  {
+    "id": "FUNN-047",
+    "category": "funny_twitch",
+    "rarity": "Common",
+    "fact": "😂 The wolf pack has logged on."
+  },
+  {
+    "id": "FUNN-048",
+    "category": "funny_twitch",
+    "rarity": "Common",
+    "fact": "😂 Awooooo, but educational."
+  },
+  {
+    "id": "FUNN-049",
+    "category": "funny_twitch",
+    "rarity": "Common",
+    "fact": "😂 Wolves are basically moonlit forest royalty."
+  },
+  {
+    "id": "FUNN-050",
+    "category": "funny_twitch",
+    "rarity": "Common",
+    "fact": "😂 Wolf wisdom: travel together, communicate clearly, and never waste snacks."
+  },
+  {
+    "id": "FUNN-051",
+    "category": "funny_twitch",
+    "rarity": "Common",
+    "fact": "😂 Wolves run on teamwork, instinct, and probably vibes."
+  },
+  {
+    "id": "FUNN-052",
+    "category": "funny_twitch",
+    "rarity": "Common",
+    "fact": "😂 Wolves are basically moonlit forest royalty."
+  },
+  {
+    "id": "FUNN-053",
+    "category": "funny_twitch",
+    "rarity": "Common",
+    "fact": "😂 Wolves are basically moonlit forest royalty."
+  },
+  {
+    "id": "FUNN-054",
+    "category": "funny_twitch",
+    "rarity": "Common",
+    "fact": "😂 Wolf wisdom: travel together, communicate clearly, and never waste snacks."
+  },
+  {
+    "id": "FUNN-055",
+    "category": "funny_twitch",
+    "rarity": "Common",
+    "fact": "😂 Warning: repeated wolf facts may cause sudden howling."
+  },
+  {
+    "id": "FUNN-056",
+    "category": "funny_twitch",
+    "rarity": "Common",
+    "fact": "😂 Wolf wisdom: travel together, communicate clearly, and never waste snacks."
+  },
+  {
+    "id": "FUNN-057",
+    "category": "funny_twitch",
+    "rarity": "Common",
+    "fact": "😂 Wolves run on teamwork, instinct, and probably vibes."
+  },
+  {
+    "id": "FUNN-058",
+    "category": "funny_twitch",
+    "rarity": "Common",
+    "fact": "😂 Wolf wisdom: travel together, communicate clearly, and never waste snacks."
+  },
+  {
+    "id": "FUNN-059",
+    "category": "funny_twitch",
+    "rarity": "Common",
+    "fact": "😂 Wolves run on teamwork, instinct, and probably vibes."
+  },
+  {
+    "id": "FUNN-060",
+    "category": "funny_twitch",
+    "rarity": "Common",
+    "fact": "😂 Wolves are basically moonlit forest royalty."
+  },
+  {
+    "id": "FUNN-061",
+    "category": "funny_twitch",
+    "rarity": "Common",
+    "fact": "😂 Wolves are basically moonlit forest royalty."
+  },
+  {
+    "id": "FUNN-062",
+    "category": "funny_twitch",
+    "rarity": "Common",
+    "fact": "😂 Wolves run on teamwork, instinct, and probably vibes."
+  },
+  {
+    "id": "FUNN-063",
+    "category": "funny_twitch",
+    "rarity": "Common",
+    "fact": "😂 Wolf wisdom: travel together, communicate clearly, and never waste snacks."
+  },
+  {
+    "id": "FUNN-064",
+    "category": "funny_twitch",
+    "rarity": "Common",
+    "fact": "😂 Wolf wisdom: travel together, communicate clearly, and never waste snacks."
+  },
+  {
+    "id": "FUNN-065",
+    "category": "funny_twitch",
+    "rarity": "Common",
+    "fact": "😂 Wolves are basically moonlit forest royalty."
+  },
+  {
+    "id": "FUNN-066",
+    "category": "funny_twitch",
+    "rarity": "Common",
+    "fact": "😂 Wolves run on teamwork, instinct, and probably vibes."
+  },
+  {
+    "id": "FUNN-067",
+    "category": "funny_twitch",
+    "rarity": "Common",
+    "fact": "😂 Wolves are basically moonlit forest royalty."
+  },
+  {
+    "id": "FUNN-068",
+    "category": "funny_twitch",
+    "rarity": "Common",
+    "fact": "😂 A wolf fact has appeared. Chat gained +1 wilderness knowledge."
+  },
+  {
+    "id": "FUNN-069",
+    "category": "funny_twitch",
+    "rarity": "Common",
+    "fact": "😂 Wolves run on teamwork, instinct, and probably vibes."
+  },
+  {
+    "id": "FUNN-070",
+    "category": "funny_twitch",
+    "rarity": "Common",
+    "fact": "😂 Wolves are basically moonlit forest royalty."
+  },
+  {
+    "id": "FUNN-071",
+    "category": "funny_twitch",
+    "rarity": "Common",
+    "fact": "😂 Wolves run on teamwork, instinct, and probably vibes."
+  },
+  {
+    "id": "FUNN-072",
+    "category": "funny_twitch",
+    "rarity": "Common",
+    "fact": "😂 A wolf fact has appeared. Chat gained +1 wilderness knowledge."
+  },
+  {
+    "id": "FUNN-073",
+    "category": "funny_twitch",
+    "rarity": "Common",
+    "fact": "😂 A wolf fact has appeared. Chat gained +1 wilderness knowledge."
+  },
+  {
+    "id": "FUNN-074",
+    "category": "funny_twitch",
+    "rarity": "Common",
+    "fact": "😂 Wolves are basically moonlit forest royalty."
+  },
+  {
+    "id": "FUNN-075",
+    "category": "funny_twitch",
+    "rarity": "Common",
+    "fact": "😂 Wolf wisdom: travel together, communicate clearly, and never waste snacks."
+  },
+  {
+    "id": "FUNN-076",
+    "category": "funny_twitch",
+    "rarity": "Common",
+    "fact": "😂 Wolf wisdom: travel together, communicate clearly, and never waste snacks."
+  },
+  {
+    "id": "FUNN-077",
+    "category": "funny_twitch",
+    "rarity": "Common",
+    "fact": "😂 Warning: repeated wolf facts may cause sudden howling."
+  },
+  {
+    "id": "FUNN-078",
+    "category": "funny_twitch",
+    "rarity": "Common",
+    "fact": "😂 Wolf wisdom: travel together, communicate clearly, and never waste snacks."
+  },
+  {
+    "id": "FUNN-079",
+    "category": "funny_twitch",
+    "rarity": "Common",
+    "fact": "😂 A wolf fact has appeared. Chat gained +1 wilderness knowledge."
+  },
+  {
+    "id": "FUNN-080",
+    "category": "funny_twitch",
+    "rarity": "Common",
+    "fact": "😂 Wolf wisdom: travel together, communicate clearly, and never waste snacks."
+  },
+  {
+    "id": "FUNN-081",
+    "category": "funny_twitch",
+    "rarity": "Common",
+    "fact": "😂 A wolf fact has appeared. Chat gained +1 wilderness knowledge."
+  },
+  {
+    "id": "FUNN-082",
+    "category": "funny_twitch",
+    "rarity": "Common",
+    "fact": "😂 Wolves are basically moonlit forest royalty."
+  },
+  {
+    "id": "FUNN-083",
+    "category": "funny_twitch",
+    "rarity": "Common",
+    "fact": "😂 Warning: repeated wolf facts may cause sudden howling."
+  },
+  {
+    "id": "FUNN-084",
+    "category": "funny_twitch",
+    "rarity": "Common",
+    "fact": "😂 A wolf fact has appeared. Chat gained +1 wilderness knowledge."
+  },
+  {
+    "id": "FUNN-085",
+    "category": "funny_twitch",
+    "rarity": "Common",
+    "fact": "😂 A wolf fact has appeared. Chat gained +1 wilderness knowledge."
+  },
+  {
+    "id": "FUNN-086",
+    "category": "funny_twitch",
+    "rarity": "Common",
+    "fact": "😂 A wolf fact has appeared. Chat gained +1 wilderness knowledge."
+  },
+  {
+    "id": "FUNN-087",
+    "category": "funny_twitch",
+    "rarity": "Common",
+    "fact": "😂 Wolves run on teamwork, instinct, and probably vibes."
+  },
+  {
+    "id": "FUNN-088",
+    "category": "funny_twitch",
+    "rarity": "Common",
+    "fact": "😂 Wolves are basically moonlit forest royalty."
+  },
+  {
+    "id": "FUNN-089",
+    "category": "funny_twitch",
+    "rarity": "Common",
+    "fact": "😂 Wolf wisdom: travel together, communicate clearly, and never waste snacks."
+  },
+  {
+    "id": "FUNN-090",
+    "category": "funny_twitch",
+    "rarity": "Common",
+    "fact": "😂 Wolves run on teamwork, instinct, and probably vibes."
+  },
+  {
+    "id": "FUNN-091",
+    "category": "funny_twitch",
+    "rarity": "Common",
+    "fact": "😂 Wolf wisdom: travel together, communicate clearly, and never waste snacks."
+  },
+  {
+    "id": "FUNN-092",
+    "category": "funny_twitch",
+    "rarity": "Common",
+    "fact": "😂 Wolves are basically moonlit forest royalty."
+  },
+  {
+    "id": "FUNN-093",
+    "category": "funny_twitch",
+    "rarity": "Common",
+    "fact": "😂 Wolf wisdom: travel together, communicate clearly, and never waste snacks."
+  },
+  {
+    "id": "FUNN-094",
+    "category": "funny_twitch",
+    "rarity": "Common",
+    "fact": "😂 Wolf wisdom: travel together, communicate clearly, and never waste snacks."
+  },
+  {
+    "id": "FUNN-095",
+    "category": "funny_twitch",
+    "rarity": "Common",
+    "fact": "😂 A wolf fact has appeared. Chat gained +1 wilderness knowledge."
+  },
+  {
+    "id": "FUNN-096",
+    "category": "funny_twitch",
+    "rarity": "Common",
+    "fact": "😂 Warning: repeated wolf facts may cause sudden howling."
+  },
+  {
+    "id": "FUNN-097",
+    "category": "funny_twitch",
+    "rarity": "Common",
+    "fact": "😂 Wolves are basically moonlit forest royalty."
+  },
+  {
+    "id": "FUNN-098",
+    "category": "funny_twitch",
+    "rarity": "Common",
+    "fact": "😂 Wolves are basically moonlit forest royalty."
+  },
+  {
+    "id": "FUNN-099",
+    "category": "funny_twitch",
+    "rarity": "Common",
+    "fact": "😂 Wolves run on teamwork, instinct, and probably vibes."
+  },
+  {
+    "id": "FUNN-100",
+    "category": "funny_twitch",
+    "rarity": "Common",
+    "fact": "😂 Wolves run on teamwork, instinct, and probably vibes."
+  }
+]

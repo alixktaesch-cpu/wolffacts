@@ -1,0 +1,36 @@
+Replace YOUR-WORKER-URL with your Cloudflare Worker URL, like:
+https://wolffacts-api.yourname.workers.dev
+
+!wolffact
+🐺 $(customapi https://YOUR-WORKER-URL/random)
+
+!wolfpull
+🌕 $(customapi https://YOUR-WORKER-URL/rarity)
+
+!wolfgeneral
+🐺 $(customapi https://YOUR-WORKER-URL/general)
+
+!wolfspecies
+🌎 $(customapi https://YOUR-WORKER-URL/species)
+
+!famouswolf
+⭐ $(customapi https://YOUR-WORKER-URL/famous)
+
+!wolfanatomy
+🩻 $(customapi https://YOUR-WORKER-URL/anatomy)
+
+!wolfhistory
+📜 $(customapi https://YOUR-WORKER-URL/history)
+
+!wolfconservation
+🌲 $(customapi https://YOUR-WORKER-URL/conservation)
+
+!wolfgiggle
+😂 $(customapi https://YOUR-WORKER-URL/funny)
+
+!legendarywolf
+👑 $(customapi https://YOUR-WORKER-URL/legendary)
+
+Plain-text versions without rarity tags:
+!wolffactplain
+🐺 $(customapi https://YOUR-WORKER-URL/random?mode=plain)

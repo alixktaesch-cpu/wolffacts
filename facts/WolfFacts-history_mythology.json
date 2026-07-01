@@ -1,0 +1,452 @@
+[
+  {
+    "id": "HIST-001",
+    "category": "history_mythology",
+    "rarity": "Epic",
+    "fact": "📜 Wolves appear in myths, legends, and folktales across Europe, Asia, Africa, and the Americas."
+  },
+  {
+    "id": "HIST-002",
+    "category": "history_mythology",
+    "rarity": "Epic",
+    "fact": "📜 Fenrir is the giant wolf of Norse mythology destined to break free at Ragnarök."
+  },
+  {
+    "id": "HIST-003",
+    "category": "history_mythology",
+    "rarity": "Epic",
+    "fact": "📜 Geri and Freki are the wolves associated with Odin in Norse mythology."
+  },
+  {
+    "id": "HIST-004",
+    "category": "history_mythology",
+    "rarity": "Epic",
+    "fact": "📜 Sköll is a Norse wolf said to pursue the sun."
+  },
+  {
+    "id": "HIST-005",
+    "category": "history_mythology",
+    "rarity": "Epic",
+    "fact": "📜 Hati is a Norse wolf said to pursue the moon."
+  },
+  {
+    "id": "HIST-006",
+    "category": "history_mythology",
+    "rarity": "Epic",
+    "fact": "📜 The binding of Fenrir involves the magical ribbon Gleipnir, made from impossible things."
+  },
+  {
+    "id": "HIST-007",
+    "category": "history_mythology",
+    "rarity": "Epic",
+    "fact": "📜 Fenrir's story shows the Norse theme that fate cannot be fully escaped."
+  },
+  {
+    "id": "HIST-008",
+    "category": "history_mythology",
+    "rarity": "Epic",
+    "fact": "📜 In Roman legend, a she-wolf nurses the twins Romulus and Remus."
+  },
+  {
+    "id": "HIST-009",
+    "category": "history_mythology",
+    "rarity": "Epic",
+    "fact": "📜 The she-wolf became a powerful symbol of Rome's origin story."
+  },
+  {
+    "id": "HIST-010",
+    "category": "history_mythology",
+    "rarity": "Epic",
+    "fact": "📜 Wepwawet was an ancient Egyptian jackal or wolf-like deity associated with opening the ways."
+  },
+  {
+    "id": "HIST-011",
+    "category": "history_mythology",
+    "rarity": "Epic",
+    "fact": "📜 In Greek myth, Lycaon was transformed into a wolf after offending Zeus."
+  },
+  {
+    "id": "HIST-012",
+    "category": "history_mythology",
+    "rarity": "Epic",
+    "fact": "📜 The word lycanthropy comes from Greek roots connected to wolves and humans."
+  },
+  {
+    "id": "HIST-013",
+    "category": "history_mythology",
+    "rarity": "Epic",
+    "fact": "📜 Werewolf legends vary widely, but many involve transformation, wildness, fear, and the boundary between human and animal."
+  },
+  {
+    "id": "HIST-014",
+    "category": "history_mythology",
+    "rarity": "Epic",
+    "fact": "📜 Full moons are strongly tied to modern werewolf fiction, even though older traditions were more varied."
+  },
+  {
+    "id": "HIST-015",
+    "category": "history_mythology",
+    "rarity": "Epic",
+    "fact": "📜 Wolves in Japanese folklore could be protectors, messengers, or mountain spirits."
+  },
+  {
+    "id": "HIST-016",
+    "category": "history_mythology",
+    "rarity": "Epic",
+    "fact": "📜 Some Japanese villages once revered wolves as protectors of crops from deer and boar."
+  },
+  {
+    "id": "HIST-017",
+    "category": "history_mythology",
+    "rarity": "Epic",
+    "fact": "📜 Extinct Japanese wolves remain important in shrines, stories, and local memory."
+  },
+  {
+    "id": "HIST-018",
+    "category": "history_mythology",
+    "rarity": "Epic",
+    "fact": "📜 Some Indigenous North American traditions portray wolves as teachers, relatives, or powerful beings, depending on the nation and story."
+  },
+  {
+    "id": "HIST-019",
+    "category": "history_mythology",
+    "rarity": "Epic",
+    "fact": "📜 It is important not to blend Indigenous wolf stories together because each nation has distinct traditions."
+  },
+  {
+    "id": "HIST-020",
+    "category": "history_mythology",
+    "rarity": "Epic",
+    "fact": "📜 Little Red Riding Hood helped cement the wolf as a fairy-tale trickster and predator in European storytelling."
+  },
+  {
+    "id": "HIST-021",
+    "category": "history_mythology",
+    "rarity": "Epic",
+    "fact": "📜 The Three Little Pigs made the Big Bad Wolf one of the most famous villains in children's literature."
+  },
+  {
+    "id": "HIST-022",
+    "category": "history_mythology",
+    "rarity": "Epic",
+    "fact": "📜 Jack London's wolf stories helped shape modern wilderness fiction."
+  },
+  {
+    "id": "HIST-023",
+    "category": "history_mythology",
+    "rarity": "Epic",
+    "fact": "📜 The Jungle Book's wolves are protectors and family figures rather than simple villains."
+  },
+  {
+    "id": "HIST-024",
+    "category": "history_mythology",
+    "rarity": "Epic",
+    "fact": "📜 Wolves appear in heraldry as symbols of courage, endurance, ferocity, or guardianship."
+  },
+  {
+    "id": "HIST-025",
+    "category": "history_mythology",
+    "rarity": "Epic",
+    "fact": "📜 Medieval coats of arms sometimes used wolves to signal strength or fierceness."
+  },
+  {
+    "id": "HIST-026",
+    "category": "history_mythology",
+    "rarity": "Epic",
+    "fact": "📜 Wolf bounties were common in parts of Europe and North America during predator eradication campaigns."
+  },
+  {
+    "id": "HIST-027",
+    "category": "history_mythology",
+    "rarity": "Epic",
+    "fact": "📜 The constellation Lupus represents a wolf or wild animal in the southern sky."
+  },
+  {
+    "id": "HIST-028",
+    "category": "history_mythology",
+    "rarity": "Epic",
+    "fact": "📜 Lupus is Latin for wolf."
+  },
+  {
+    "id": "HIST-029",
+    "category": "history_mythology",
+    "rarity": "Epic",
+    "fact": "📜 Dog domestication is complex, and scientists still debate exactly when and where it began."
+  },
+  {
+    "id": "HIST-030",
+    "category": "history_mythology",
+    "rarity": "Epic",
+    "fact": "📜 Modern dogs and wolves share ancestry, but dogs are shaped by thousands of years of life with humans."
+  },
+  {
+    "id": "HIST-031",
+    "category": "history_mythology",
+    "rarity": "Epic",
+    "fact": "📜 Dire wolves were not mythological; they were real Ice Age canids that went extinct."
+  },
+  {
+    "id": "HIST-032",
+    "category": "history_mythology",
+    "rarity": "Epic",
+    "fact": "📜 Dire wolf fossils are famously common at the La Brea Tar Pits in Los Angeles."
+  },
+  {
+    "id": "HIST-033",
+    "category": "history_mythology",
+    "rarity": "Epic",
+    "fact": "📜 Wolves appear in cave art, carvings, legends, tapestries, paintings, and modern fantasy art."
+  },
+  {
+    "id": "HIST-034",
+    "category": "history_mythology",
+    "rarity": "Epic",
+    "fact": "📜 A wolf in art often signals wilderness, danger, loyalty, solitude, or magic."
+  },
+  {
+    "id": "HIST-035",
+    "category": "history_mythology",
+    "rarity": "Epic",
+    "fact": "📜 Video games often use wolves as early wilderness enemies, loyal mounts, spirit guides, or boss creatures."
+  },
+  {
+    "id": "HIST-036",
+    "category": "history_mythology",
+    "rarity": "Epic",
+    "fact": "📜 Film wolves are often more aggressive than real wolves because movies need drama."
+  },
+  {
+    "id": "HIST-037",
+    "category": "history_mythology",
+    "rarity": "Epic",
+    "fact": "📜 The phrase lone wolf became common as a metaphor, but real lone wolves are often dispersers seeking connection."
+  },
+  {
+    "id": "HIST-038",
+    "category": "history_mythology",
+    "rarity": "Epic",
+    "fact": "📜 Wolves in mythology often reflect human fears about hunger, winter, darkness, and the unknown."
+  },
+  {
+    "id": "HIST-039",
+    "category": "history_mythology",
+    "rarity": "Epic",
+    "fact": "📜 Wolves in mythology also reflect admiration for loyalty, strength, endurance, and family bonds."
+  },
+  {
+    "id": "HIST-040",
+    "category": "history_mythology",
+    "rarity": "Epic",
+    "fact": "📜 The real wolf is often more family-focused and cautious than the monster of folklore."
+  },
+  {
+    "id": "HIST-041",
+    "category": "history_mythology",
+    "rarity": "Epic",
+    "fact": "📜 Wolf myths are often less about wolves themselves and more about what humans imagine wilderness to be."
+  },
+  {
+    "id": "HIST-042",
+    "category": "history_mythology",
+    "rarity": "Epic",
+    "fact": "📜 Wolf folklore is complicated because humans have lived alongside wolves for tens of thousands of years."
+  },
+  {
+    "id": "HIST-043",
+    "category": "history_mythology",
+    "rarity": "Epic",
+    "fact": "📜 Some stories treat wolves as monsters; others treat them as teachers, ancestors, or protectors."
+  },
+  {
+    "id": "HIST-044",
+    "category": "history_mythology",
+    "rarity": "Epic",
+    "fact": "📜 The same animal can be villain, hero, guide, and sacred symbol depending on culture."
+  },
+  {
+    "id": "HIST-045",
+    "category": "history_mythology",
+    "rarity": "Epic",
+    "fact": "📜 Wolf folklore is complicated because humans have lived alongside wolves for tens of thousands of years."
+  },
+  {
+    "id": "HIST-046",
+    "category": "history_mythology",
+    "rarity": "Epic",
+    "fact": "📜 Wolf folklore is complicated because humans have lived alongside wolves for tens of thousands of years."
+  },
+  {
+    "id": "HIST-047",
+    "category": "history_mythology",
+    "rarity": "Epic",
+    "fact": "📜 Some stories treat wolves as monsters; others treat them as teachers, ancestors, or protectors."
+  },
+  {
+    "id": "HIST-048",
+    "category": "history_mythology",
+    "rarity": "Epic",
+    "fact": "📜 Wolf myths are often less about wolves themselves and more about what humans imagine wilderness to be."
+  },
+  {
+    "id": "HIST-049",
+    "category": "history_mythology",
+    "rarity": "Epic",
+    "fact": "📜 Wolf myths are often less about wolves themselves and more about what humans imagine wilderness to be."
+  },
+  {
+    "id": "HIST-050",
+    "category": "history_mythology",
+    "rarity": "Epic",
+    "fact": "📜 The same animal can be villain, hero, guide, and sacred symbol depending on culture."
+  },
+  {
+    "id": "HIST-051",
+    "category": "history_mythology",
+    "rarity": "Epic",
+    "fact": "📜 Wolf folklore is complicated because humans have lived alongside wolves for tens of thousands of years."
+  },
+  {
+    "id": "HIST-052",
+    "category": "history_mythology",
+    "rarity": "Epic",
+    "fact": "📜 Wolves have walked through human history as enemies, allies, gods, monsters, and symbols of wild freedom."
+  },
+  {
+    "id": "HIST-053",
+    "category": "history_mythology",
+    "rarity": "Epic",
+    "fact": "📜 Wolf myths are often less about wolves themselves and more about what humans imagine wilderness to be."
+  },
+  {
+    "id": "HIST-054",
+    "category": "history_mythology",
+    "rarity": "Epic",
+    "fact": "📜 Wolf myths are often less about wolves themselves and more about what humans imagine wilderness to be."
+  },
+  {
+    "id": "HIST-055",
+    "category": "history_mythology",
+    "rarity": "Epic",
+    "fact": "📜 Some stories treat wolves as monsters; others treat them as teachers, ancestors, or protectors."
+  },
+  {
+    "id": "HIST-056",
+    "category": "history_mythology",
+    "rarity": "Epic",
+    "fact": "📜 Some stories treat wolves as monsters; others treat them as teachers, ancestors, or protectors."
+  },
+  {
+    "id": "HIST-057",
+    "category": "history_mythology",
+    "rarity": "Epic",
+    "fact": "📜 Wolves have walked through human history as enemies, allies, gods, monsters, and symbols of wild freedom."
+  },
+  {
+    "id": "HIST-058",
+    "category": "history_mythology",
+    "rarity": "Epic",
+    "fact": "📜 The same animal can be villain, hero, guide, and sacred symbol depending on culture."
+  },
+  {
+    "id": "HIST-059",
+    "category": "history_mythology",
+    "rarity": "Epic",
+    "fact": "📜 Wolf myths are often less about wolves themselves and more about what humans imagine wilderness to be."
+  },
+  {
+    "id": "HIST-060",
+    "category": "history_mythology",
+    "rarity": "Epic",
+    "fact": "📜 Wolf folklore is complicated because humans have lived alongside wolves for tens of thousands of years."
+  },
+  {
+    "id": "HIST-061",
+    "category": "history_mythology",
+    "rarity": "Epic",
+    "fact": "📜 Wolves have walked through human history as enemies, allies, gods, monsters, and symbols of wild freedom."
+  },
+  {
+    "id": "HIST-062",
+    "category": "history_mythology",
+    "rarity": "Epic",
+    "fact": "📜 The same animal can be villain, hero, guide, and sacred symbol depending on culture."
+  },
+  {
+    "id": "HIST-063",
+    "category": "history_mythology",
+    "rarity": "Epic",
+    "fact": "📜 Wolves have walked through human history as enemies, allies, gods, monsters, and symbols of wild freedom."
+  },
+  {
+    "id": "HIST-064",
+    "category": "history_mythology",
+    "rarity": "Epic",
+    "fact": "📜 Wolf myths are often less about wolves themselves and more about what humans imagine wilderness to be."
+  },
+  {
+    "id": "HIST-065",
+    "category": "history_mythology",
+    "rarity": "Epic",
+    "fact": "📜 Some stories treat wolves as monsters; others treat them as teachers, ancestors, or protectors."
+  },
+  {
+    "id": "HIST-066",
+    "category": "history_mythology",
+    "rarity": "Epic",
+    "fact": "📜 Wolf folklore is complicated because humans have lived alongside wolves for tens of thousands of years."
+  },
+  {
+    "id": "HIST-067",
+    "category": "history_mythology",
+    "rarity": "Epic",
+    "fact": "📜 Wolves have walked through human history as enemies, allies, gods, monsters, and symbols of wild freedom."
+  },
+  {
+    "id": "HIST-068",
+    "category": "history_mythology",
+    "rarity": "Epic",
+    "fact": "📜 Wolves have walked through human history as enemies, allies, gods, monsters, and symbols of wild freedom."
+  },
+  {
+    "id": "HIST-069",
+    "category": "history_mythology",
+    "rarity": "Epic",
+    "fact": "📜 Wolves have walked through human history as enemies, allies, gods, monsters, and symbols of wild freedom."
+  },
+  {
+    "id": "HIST-070",
+    "category": "history_mythology",
+    "rarity": "Epic",
+    "fact": "📜 Wolf myths are often less about wolves themselves and more about what humans imagine wilderness to be."
+  },
+  {
+    "id": "HIST-071",
+    "category": "history_mythology",
+    "rarity": "Epic",
+    "fact": "📜 Wolves have walked through human history as enemies, allies, gods, monsters, and symbols of wild freedom."
+  },
+  {
+    "id": "HIST-072",
+    "category": "history_mythology",
+    "rarity": "Epic",
+    "fact": "📜 Wolves have walked through human history as enemies, allies, gods, monsters, and symbols of wild freedom."
+  },
+  {
+    "id": "HIST-073",
+    "category": "history_mythology",
+    "rarity": "Epic",
+    "fact": "📜 Wolf myths are often less about wolves themselves and more about what humans imagine wilderness to be."
+  },
+  {
+    "id": "HIST-074",
+    "category": "history_mythology",
+    "rarity": "Epic",
+    "fact": "📜 The same animal can be villain, hero, guide, and sacred symbol depending on culture."
+  },
+  {
+    "id": "HIST-075",
+    "category": "history_mythology",
+    "rarity": "Epic",
+    "fact": "📜 Wolf myths are often less about wolves themselves and more about what humans imagine wilderness to be."
+  }
+]

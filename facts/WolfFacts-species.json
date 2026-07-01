@@ -1,0 +1,602 @@
+[
+  {
+    "id": "SPEC-001",
+    "category": "species",
+    "rarity": "Uncommon",
+    "fact": "🌎 Gray wolves are the largest wild members of the dog family, Canidae."
+  },
+  {
+    "id": "SPEC-002",
+    "category": "species",
+    "rarity": "Uncommon",
+    "fact": "🌎 Gray wolves once had one of the broadest natural ranges of any land mammal in the Northern Hemisphere."
+  },
+  {
+    "id": "SPEC-003",
+    "category": "species",
+    "rarity": "Uncommon",
+    "fact": "🌎 Arctic wolves are a gray wolf subspecies adapted to the cold High Arctic."
+  },
+  {
+    "id": "SPEC-004",
+    "category": "species",
+    "rarity": "Uncommon",
+    "fact": "🌎 Arctic wolves often have pale coats that help them blend into snowy landscapes."
+  },
+  {
+    "id": "SPEC-005",
+    "category": "species",
+    "rarity": "Uncommon",
+    "fact": "🌎 Arctic wolf prey can include muskoxen, Arctic hares, and caribou depending on location."
+  },
+  {
+    "id": "SPEC-006",
+    "category": "species",
+    "rarity": "Uncommon",
+    "fact": "🌎 The Mexican wolf is the rarest subspecies of gray wolf in North America."
+  },
+  {
+    "id": "SPEC-007",
+    "category": "species",
+    "rarity": "Uncommon",
+    "fact": "🌎 Mexican wolves are also known by the Spanish name lobos."
+  },
+  {
+    "id": "SPEC-008",
+    "category": "species",
+    "rarity": "Uncommon",
+    "fact": "🌎 Mexican wolves were reintroduced to parts of Arizona and New Mexico beginning in 1998."
+  },
+  {
+    "id": "SPEC-009",
+    "category": "species",
+    "rarity": "Uncommon",
+    "fact": "🌎 Mexican wolves were listed as endangered in the United States in 1976."
+  },
+  {
+    "id": "SPEC-010",
+    "category": "species",
+    "rarity": "Uncommon",
+    "fact": "🌎 Red wolves are native to the southeastern United States."
+  },
+  {
+    "id": "SPEC-011",
+    "category": "species",
+    "rarity": "Uncommon",
+    "fact": "🌎 Red wolves are smaller and slimmer than many gray wolves but larger than coyotes."
+  },
+  {
+    "id": "SPEC-012",
+    "category": "species",
+    "rarity": "Uncommon",
+    "fact": "🌎 Red wolves are one of the most endangered canids in the world."
+  },
+  {
+    "id": "SPEC-013",
+    "category": "species",
+    "rarity": "Uncommon",
+    "fact": "🌎 Wild red wolves currently survive only in a small recovery area in eastern North Carolina."
+  },
+  {
+    "id": "SPEC-014",
+    "category": "species",
+    "rarity": "Uncommon",
+    "fact": "🌎 Ethiopian wolves live in the highlands of Ethiopia and are Africa's most endangered carnivore."
+  },
+  {
+    "id": "SPEC-015",
+    "category": "species",
+    "rarity": "Uncommon",
+    "fact": "🌎 Ethiopian wolves specialize in hunting rodents in Afroalpine grasslands."
+  },
+  {
+    "id": "SPEC-016",
+    "category": "species",
+    "rarity": "Uncommon",
+    "fact": "🌎 Ethiopian wolves are more closely related to gray wolves and coyotes than to jackals, despite their foxlike build."
+  },
+  {
+    "id": "SPEC-017",
+    "category": "species",
+    "rarity": "Uncommon",
+    "fact": "🌎 Eurasian wolves are gray wolves found across parts of Europe and Asia."
+  },
+  {
+    "id": "SPEC-018",
+    "category": "species",
+    "rarity": "Uncommon",
+    "fact": "🌎 Italian wolves are a gray wolf population associated with the Apennine Mountains and wider recolonization of Europe."
+  },
+  {
+    "id": "SPEC-019",
+    "category": "species",
+    "rarity": "Uncommon",
+    "fact": "🌎 Iberian wolves are found mainly in Spain and Portugal."
+  },
+  {
+    "id": "SPEC-020",
+    "category": "species",
+    "rarity": "Uncommon",
+    "fact": "🌎 Indian wolves are adapted to warmer, drier landscapes than many northern wolf populations."
+  },
+  {
+    "id": "SPEC-021",
+    "category": "species",
+    "rarity": "Uncommon",
+    "fact": "🌎 Himalayan wolves are adapted to high-altitude environments in parts of Central and South Asia."
+  },
+  {
+    "id": "SPEC-022",
+    "category": "species",
+    "rarity": "Uncommon",
+    "fact": "🌎 Tundra wolves are large northern gray wolves associated with Arctic and subarctic tundra regions."
+  },
+  {
+    "id": "SPEC-023",
+    "category": "species",
+    "rarity": "Uncommon",
+    "fact": "🌎 Northwestern wolves are among the larger gray wolf forms in North America."
+  },
+  {
+    "id": "SPEC-024",
+    "category": "species",
+    "rarity": "Uncommon",
+    "fact": "🌎 Mackenzie Valley wolves are famous for their large size and northern range."
+  },
+  {
+    "id": "SPEC-025",
+    "category": "species",
+    "rarity": "Uncommon",
+    "fact": "🌎 Alexander Archipelago wolves live in coastal rainforest regions of southeast Alaska."
+  },
+  {
+    "id": "SPEC-026",
+    "category": "species",
+    "rarity": "Uncommon",
+    "fact": "🌎 Alexander Archipelago wolves are closely tied to deer and coastal island ecosystems."
+  },
+  {
+    "id": "SPEC-027",
+    "category": "species",
+    "rarity": "Uncommon",
+    "fact": "🌎 The Honshu wolf of Japan is extinct and was one of the smallest recognized gray wolf forms."
+  },
+  {
+    "id": "SPEC-028",
+    "category": "species",
+    "rarity": "Uncommon",
+    "fact": "🌎 The Hokkaido wolf, also called the Ezo wolf, is extinct and once lived in northern Japan."
+  },
+  {
+    "id": "SPEC-029",
+    "category": "species",
+    "rarity": "Uncommon",
+    "fact": "🌎 Dire wolves were real Ice Age canids, but they were not simply oversized gray wolves."
+  },
+  {
+    "id": "SPEC-030",
+    "category": "species",
+    "rarity": "Uncommon",
+    "fact": "🌎 Dire wolves went extinct thousands of years ago and are known from fossils across the Americas."
+  },
+  {
+    "id": "SPEC-031",
+    "category": "species",
+    "rarity": "Uncommon",
+    "fact": "🌎 Coyotes are close relatives of wolves but are a separate species."
+  },
+  {
+    "id": "SPEC-032",
+    "category": "species",
+    "rarity": "Uncommon",
+    "fact": "🌎 The maned wolf of South America is not a true wolf despite its name."
+  },
+  {
+    "id": "SPEC-033",
+    "category": "species",
+    "rarity": "Uncommon",
+    "fact": "🌎 The aardwolf is not a wolf at all; it is a hyena relative that eats termites."
+  },
+  {
+    "id": "SPEC-034",
+    "category": "species",
+    "rarity": "Uncommon",
+    "fact": "🌎 Wolves associated with Russia show how adaptable canids can be in grasslands and nearby wild landscapes."
+  },
+  {
+    "id": "SPEC-035",
+    "category": "species",
+    "rarity": "Uncommon",
+    "fact": "🌎 Wolves associated with China show how adaptable canids can be in coastal islands and nearby wild landscapes."
+  },
+  {
+    "id": "SPEC-036",
+    "category": "species",
+    "rarity": "Uncommon",
+    "fact": "🌎 Wolves associated with India show how adaptable canids can be in deserts and nearby wild landscapes."
+  },
+  {
+    "id": "SPEC-037",
+    "category": "species",
+    "rarity": "Uncommon",
+    "fact": "🌎 Wolves associated with Ethiopia show how adaptable canids can be in highlands and nearby wild landscapes."
+  },
+  {
+    "id": "SPEC-038",
+    "category": "species",
+    "rarity": "Uncommon",
+    "fact": "🌎 Wolves associated with Japan show how adaptable canids can be in taiga and nearby wild landscapes."
+  },
+  {
+    "id": "SPEC-039",
+    "category": "species",
+    "rarity": "Uncommon",
+    "fact": "🌎 Wolves associated with Greenland show how adaptable canids can be in scrublands and nearby wild landscapes."
+  },
+  {
+    "id": "SPEC-040",
+    "category": "species",
+    "rarity": "Uncommon",
+    "fact": "🌎 Wolves associated with the Middle East show how adaptable canids can be in wetlands and nearby wild landscapes."
+  },
+  {
+    "id": "SPEC-041",
+    "category": "species",
+    "rarity": "Uncommon",
+    "fact": "🌎 Wolves associated with Canada show how adaptable canids can be in forests and nearby wild landscapes."
+  },
+  {
+    "id": "SPEC-042",
+    "category": "species",
+    "rarity": "Uncommon",
+    "fact": "🌎 Wolves associated with Alaska show how adaptable canids can be in tundra and nearby wild landscapes."
+  },
+  {
+    "id": "SPEC-043",
+    "category": "species",
+    "rarity": "Uncommon",
+    "fact": "🌎 Wolves associated with Yellowstone show how adaptable canids can be in mountains and nearby wild landscapes."
+  },
+  {
+    "id": "SPEC-044",
+    "category": "species",
+    "rarity": "Uncommon",
+    "fact": "🌎 Wolves associated with the Great Lakes show how adaptable canids can be in grasslands and nearby wild landscapes."
+  },
+  {
+    "id": "SPEC-045",
+    "category": "species",
+    "rarity": "Uncommon",
+    "fact": "🌎 Wolves associated with the Pacific Northwest show how adaptable canids can be in coastal islands and nearby wild landscapes."
+  },
+  {
+    "id": "SPEC-046",
+    "category": "species",
+    "rarity": "Uncommon",
+    "fact": "🌎 Wolves associated with Italy show how adaptable canids can be in deserts and nearby wild landscapes."
+  },
+  {
+    "id": "SPEC-047",
+    "category": "species",
+    "rarity": "Uncommon",
+    "fact": "🌎 Wolves associated with Spain show how adaptable canids can be in highlands and nearby wild landscapes."
+  },
+  {
+    "id": "SPEC-048",
+    "category": "species",
+    "rarity": "Uncommon",
+    "fact": "🌎 Wolves associated with Portugal show how adaptable canids can be in taiga and nearby wild landscapes."
+  },
+  {
+    "id": "SPEC-049",
+    "category": "species",
+    "rarity": "Uncommon",
+    "fact": "🌎 Wolves associated with Poland show how adaptable canids can be in scrublands and nearby wild landscapes."
+  },
+  {
+    "id": "SPEC-050",
+    "category": "species",
+    "rarity": "Uncommon",
+    "fact": "🌎 Wolves associated with Germany show how adaptable canids can be in wetlands and nearby wild landscapes."
+  },
+  {
+    "id": "SPEC-051",
+    "category": "species",
+    "rarity": "Uncommon",
+    "fact": "🌎 Wolves associated with France show how adaptable canids can be in forests and nearby wild landscapes."
+  },
+  {
+    "id": "SPEC-052",
+    "category": "species",
+    "rarity": "Uncommon",
+    "fact": "🌎 Wolves associated with Scandinavia show how adaptable canids can be in tundra and nearby wild landscapes."
+  },
+  {
+    "id": "SPEC-053",
+    "category": "species",
+    "rarity": "Uncommon",
+    "fact": "🌎 Wolves associated with Mongolia show how adaptable canids can be in mountains and nearby wild landscapes."
+  },
+  {
+    "id": "SPEC-054",
+    "category": "species",
+    "rarity": "Uncommon",
+    "fact": "🌎 Wolves associated with Russia show how adaptable canids can be in grasslands and nearby wild landscapes."
+  },
+  {
+    "id": "SPEC-055",
+    "category": "species",
+    "rarity": "Uncommon",
+    "fact": "🌎 Wolves associated with China show how adaptable canids can be in coastal islands and nearby wild landscapes."
+  },
+  {
+    "id": "SPEC-056",
+    "category": "species",
+    "rarity": "Uncommon",
+    "fact": "🌎 Wolves associated with India show how adaptable canids can be in deserts and nearby wild landscapes."
+  },
+  {
+    "id": "SPEC-057",
+    "category": "species",
+    "rarity": "Uncommon",
+    "fact": "🌎 Wolves associated with Ethiopia show how adaptable canids can be in highlands and nearby wild landscapes."
+  },
+  {
+    "id": "SPEC-058",
+    "category": "species",
+    "rarity": "Uncommon",
+    "fact": "🌎 Wolves associated with Japan show how adaptable canids can be in taiga and nearby wild landscapes."
+  },
+  {
+    "id": "SPEC-059",
+    "category": "species",
+    "rarity": "Uncommon",
+    "fact": "🌎 Wolves associated with Greenland show how adaptable canids can be in scrublands and nearby wild landscapes."
+  },
+  {
+    "id": "SPEC-060",
+    "category": "species",
+    "rarity": "Uncommon",
+    "fact": "🌎 Wolves associated with the Middle East show how adaptable canids can be in wetlands and nearby wild landscapes."
+  },
+  {
+    "id": "SPEC-061",
+    "category": "species",
+    "rarity": "Uncommon",
+    "fact": "🌎 Wolves associated with Canada show how adaptable canids can be in forests and nearby wild landscapes."
+  },
+  {
+    "id": "SPEC-062",
+    "category": "species",
+    "rarity": "Uncommon",
+    "fact": "🌎 Wolves associated with Alaska show how adaptable canids can be in tundra and nearby wild landscapes."
+  },
+  {
+    "id": "SPEC-063",
+    "category": "species",
+    "rarity": "Uncommon",
+    "fact": "🌎 Wolves associated with Yellowstone show how adaptable canids can be in mountains and nearby wild landscapes."
+  },
+  {
+    "id": "SPEC-064",
+    "category": "species",
+    "rarity": "Uncommon",
+    "fact": "🌎 Wolves associated with the Great Lakes show how adaptable canids can be in grasslands and nearby wild landscapes."
+  },
+  {
+    "id": "SPEC-065",
+    "category": "species",
+    "rarity": "Uncommon",
+    "fact": "🌎 Wolves associated with the Pacific Northwest show how adaptable canids can be in coastal islands and nearby wild landscapes."
+  },
+  {
+    "id": "SPEC-066",
+    "category": "species",
+    "rarity": "Uncommon",
+    "fact": "🌎 Wolves associated with Italy show how adaptable canids can be in deserts and nearby wild landscapes."
+  },
+  {
+    "id": "SPEC-067",
+    "category": "species",
+    "rarity": "Uncommon",
+    "fact": "🌎 Wolves associated with Spain show how adaptable canids can be in highlands and nearby wild landscapes."
+  },
+  {
+    "id": "SPEC-068",
+    "category": "species",
+    "rarity": "Uncommon",
+    "fact": "🌎 Wolves associated with Portugal show how adaptable canids can be in taiga and nearby wild landscapes."
+  },
+  {
+    "id": "SPEC-069",
+    "category": "species",
+    "rarity": "Uncommon",
+    "fact": "🌎 Wolves associated with Poland show how adaptable canids can be in scrublands and nearby wild landscapes."
+  },
+  {
+    "id": "SPEC-070",
+    "category": "species",
+    "rarity": "Uncommon",
+    "fact": "🌎 Wolves associated with Germany show how adaptable canids can be in wetlands and nearby wild landscapes."
+  },
+  {
+    "id": "SPEC-071",
+    "category": "species",
+    "rarity": "Uncommon",
+    "fact": "🌎 Wolves associated with France show how adaptable canids can be in forests and nearby wild landscapes."
+  },
+  {
+    "id": "SPEC-072",
+    "category": "species",
+    "rarity": "Uncommon",
+    "fact": "🌎 Wolves associated with Scandinavia show how adaptable canids can be in tundra and nearby wild landscapes."
+  },
+  {
+    "id": "SPEC-073",
+    "category": "species",
+    "rarity": "Uncommon",
+    "fact": "🌎 Wolves associated with Mongolia show how adaptable canids can be in mountains and nearby wild landscapes."
+  },
+  {
+    "id": "SPEC-074",
+    "category": "species",
+    "rarity": "Uncommon",
+    "fact": "🌎 Wolves associated with Russia show how adaptable canids can be in grasslands and nearby wild landscapes."
+  },
+  {
+    "id": "SPEC-075",
+    "category": "species",
+    "rarity": "Uncommon",
+    "fact": "🌎 Wolves associated with China show how adaptable canids can be in coastal islands and nearby wild landscapes."
+  },
+  {
+    "id": "SPEC-076",
+    "category": "species",
+    "rarity": "Uncommon",
+    "fact": "🌎 Wolves associated with India show how adaptable canids can be in deserts and nearby wild landscapes."
+  },
+  {
+    "id": "SPEC-077",
+    "category": "species",
+    "rarity": "Uncommon",
+    "fact": "🌎 Wolves associated with Ethiopia show how adaptable canids can be in highlands and nearby wild landscapes."
+  },
+  {
+    "id": "SPEC-078",
+    "category": "species",
+    "rarity": "Uncommon",
+    "fact": "🌎 Wolves associated with Japan show how adaptable canids can be in taiga and nearby wild landscapes."
+  },
+  {
+    "id": "SPEC-079",
+    "category": "species",
+    "rarity": "Uncommon",
+    "fact": "🌎 Wolves associated with Greenland show how adaptable canids can be in scrublands and nearby wild landscapes."
+  },
+  {
+    "id": "SPEC-080",
+    "category": "species",
+    "rarity": "Uncommon",
+    "fact": "🌎 Wolves associated with the Middle East show how adaptable canids can be in wetlands and nearby wild landscapes."
+  },
+  {
+    "id": "SPEC-081",
+    "category": "species",
+    "rarity": "Uncommon",
+    "fact": "🌎 Wolves associated with Canada show how adaptable canids can be in forests and nearby wild landscapes."
+  },
+  {
+    "id": "SPEC-082",
+    "category": "species",
+    "rarity": "Uncommon",
+    "fact": "🌎 Wolves associated with Alaska show how adaptable canids can be in tundra and nearby wild landscapes."
+  },
+  {
+    "id": "SPEC-083",
+    "category": "species",
+    "rarity": "Uncommon",
+    "fact": "🌎 Wolves associated with Yellowstone show how adaptable canids can be in mountains and nearby wild landscapes."
+  },
+  {
+    "id": "SPEC-084",
+    "category": "species",
+    "rarity": "Uncommon",
+    "fact": "🌎 Wolves associated with the Great Lakes show how adaptable canids can be in grasslands and nearby wild landscapes."
+  },
+  {
+    "id": "SPEC-085",
+    "category": "species",
+    "rarity": "Uncommon",
+    "fact": "🌎 Wolves associated with the Pacific Northwest show how adaptable canids can be in coastal islands and nearby wild landscapes."
+  },
+  {
+    "id": "SPEC-086",
+    "category": "species",
+    "rarity": "Uncommon",
+    "fact": "🌎 Wolves associated with Italy show how adaptable canids can be in deserts and nearby wild landscapes."
+  },
+  {
+    "id": "SPEC-087",
+    "category": "species",
+    "rarity": "Uncommon",
+    "fact": "🌎 Wolves associated with Spain show how adaptable canids can be in highlands and nearby wild landscapes."
+  },
+  {
+    "id": "SPEC-088",
+    "category": "species",
+    "rarity": "Uncommon",
+    "fact": "🌎 Wolves associated with Portugal show how adaptable canids can be in taiga and nearby wild landscapes."
+  },
+  {
+    "id": "SPEC-089",
+    "category": "species",
+    "rarity": "Uncommon",
+    "fact": "🌎 Wolves associated with Poland show how adaptable canids can be in scrublands and nearby wild landscapes."
+  },
+  {
+    "id": "SPEC-090",
+    "category": "species",
+    "rarity": "Uncommon",
+    "fact": "🌎 Wolves associated with Germany show how adaptable canids can be in wetlands and nearby wild landscapes."
+  },
+  {
+    "id": "SPEC-091",
+    "category": "species",
+    "rarity": "Uncommon",
+    "fact": "🌎 Wolves associated with France show how adaptable canids can be in forests and nearby wild landscapes."
+  },
+  {
+    "id": "SPEC-092",
+    "category": "species",
+    "rarity": "Uncommon",
+    "fact": "🌎 Wolves associated with Scandinavia show how adaptable canids can be in tundra and nearby wild landscapes."
+  },
+  {
+    "id": "SPEC-093",
+    "category": "species",
+    "rarity": "Uncommon",
+    "fact": "🌎 Wolves associated with Mongolia show how adaptable canids can be in mountains and nearby wild landscapes."
+  },
+  {
+    "id": "SPEC-094",
+    "category": "species",
+    "rarity": "Uncommon",
+    "fact": "🌎 Wolves associated with Russia show how adaptable canids can be in grasslands and nearby wild landscapes."
+  },
+  {
+    "id": "SPEC-095",
+    "category": "species",
+    "rarity": "Uncommon",
+    "fact": "🌎 Wolves associated with China show how adaptable canids can be in coastal islands and nearby wild landscapes."
+  },
+  {
+    "id": "SPEC-096",
+    "category": "species",
+    "rarity": "Uncommon",
+    "fact": "🌎 Wolves associated with India show how adaptable canids can be in deserts and nearby wild landscapes."
+  },
+  {
+    "id": "SPEC-097",
+    "category": "species",
+    "rarity": "Uncommon",
+    "fact": "🌎 Wolves associated with Ethiopia show how adaptable canids can be in highlands and nearby wild landscapes."
+  },
+  {
+    "id": "SPEC-098",
+    "category": "species",
+    "rarity": "Uncommon",
+    "fact": "🌎 Wolves associated with Japan show how adaptable canids can be in taiga and nearby wild landscapes."
+  },
+  {
+    "id": "SPEC-099",
+    "category": "species",
+    "rarity": "Uncommon",
+    "fact": "🌎 Wolves associated with Greenland show how adaptable canids can be in scrublands and nearby wild landscapes."
+  },
+  {
+    "id": "SPEC-100",
+    "category": "species",
+    "rarity": "Uncommon",
+    "fact": "🌎 Wolves associated with the Middle East show how adaptable canids can be in wetlands and nearby wild landscapes."
+  }
+]

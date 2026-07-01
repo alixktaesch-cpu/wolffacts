@@ -1,0 +1,302 @@
+[
+  {
+    "id": "LEGE-001",
+    "category": "legendary",
+    "rarity": "Legendary",
+    "fact": "👑 LEGENDARY WOLF FACT! Fenrir, the giant wolf of Norse mythology, was prophesied to break free during Ragnarök and kill Odin before being slain by Odin's son Víðarr."
+  },
+  {
+    "id": "LEGE-002",
+    "category": "legendary",
+    "rarity": "Legendary",
+    "fact": "👑 LEGENDARY WOLF FACT! Yellowstone's 06 Female became one of the most famous wild wolves in the world because of her skill, visibility, and dramatic life story."
+  },
+  {
+    "id": "LEGE-003",
+    "category": "legendary",
+    "rarity": "Legendary",
+    "fact": "👑 LEGENDARY WOLF FACT! OR-7, nicknamed Journey, became the first confirmed wild wolf in California in nearly 90 years after dispersing from Oregon."
+  },
+  {
+    "id": "LEGE-004",
+    "category": "legendary",
+    "rarity": "Legendary",
+    "fact": "👑 LEGENDARY WOLF FACT! The red wolf is one of the rarest canids on Earth, with wild recovery centered in eastern North Carolina."
+  },
+  {
+    "id": "LEGE-005",
+    "category": "legendary",
+    "rarity": "Legendary",
+    "fact": "👑 LEGENDARY WOLF FACT! Ethiopian wolves are Africa's most endangered carnivores and specialize in hunting rodents in high mountain grasslands."
+  },
+  {
+    "id": "LEGE-006",
+    "category": "legendary",
+    "rarity": "Legendary",
+    "fact": "👑 LEGENDARY WOLF FACT! Wolves were reintroduced to Yellowstone in 1995 and 1996, creating one of the most famous predator restoration stories ever."
+  },
+  {
+    "id": "LEGE-007",
+    "category": "legendary",
+    "rarity": "Legendary",
+    "fact": "👑 LEGENDARY WOLF FACT! The Druid Peak Pack became iconic in Yellowstone wolf history after the species returned to the park."
+  },
+  {
+    "id": "LEGE-008",
+    "category": "legendary",
+    "rarity": "Legendary",
+    "fact": "👑 LEGENDARY WOLF FACT! Wolf 21M of Yellowstone's Druid Peak Pack became famous for leadership and an unusually tolerant social style."
+  },
+  {
+    "id": "LEGE-009",
+    "category": "legendary",
+    "rarity": "Legendary",
+    "fact": "👑 LEGENDARY WOLF FACT! Lobo, the Wolf King of Currumpaw, helped change Ernest Thompson Seton's view of predators and influenced wildlife storytelling."
+  },
+  {
+    "id": "LEGE-010",
+    "category": "legendary",
+    "rarity": "Legendary",
+    "fact": "👑 LEGENDARY WOLF FACT! Dire wolves were real Ice Age canids, but modern genetic work shows they were not simply gray wolves with extra size."
+  },
+  {
+    "id": "LEGE-011",
+    "category": "legendary",
+    "rarity": "Legendary",
+    "fact": "👑 LEGENDARY WOLF FACT! The Honshu wolf of Japan went extinct in 1905 and remains a powerful figure in Japanese local memory and folklore."
+  },
+  {
+    "id": "LEGE-012",
+    "category": "legendary",
+    "rarity": "Legendary",
+    "fact": "👑 LEGENDARY WOLF FACT! In Roman legend, a she-wolf nursed Romulus and Remus, connecting wolves forever with the mythic founding of Rome."
+  },
+  {
+    "id": "LEGE-013",
+    "category": "legendary",
+    "rarity": "Legendary",
+    "fact": "👑 LEGENDARY WOLF FACT! Geri and Freki, Odin's wolves, show that Norse mythology treated wolves as both terrifying and sacred companions."
+  },
+  {
+    "id": "LEGE-014",
+    "category": "legendary",
+    "rarity": "Legendary",
+    "fact": "👑 LEGENDARY WOLF FACT! Sköll and Hati are Norse wolves said to chase the sun and moon, giving wolves a cosmic role in myth."
+  },
+  {
+    "id": "LEGE-015",
+    "category": "legendary",
+    "rarity": "Legendary",
+    "fact": "👑 LEGENDARY WOLF FACT! Arctic wolves survive in some of the harshest wolf habitat on Earth, including High Arctic regions of extreme cold and darkness."
+  },
+  {
+    "id": "LEGE-016",
+    "category": "legendary",
+    "rarity": "Legendary",
+    "fact": "👑 LEGENDARY WOLF FACT! Mexican wolves were nearly eliminated from the wild before captive breeding and reintroduction gave lobos another chance."
+  },
+  {
+    "id": "LEGE-017",
+    "category": "legendary",
+    "rarity": "Legendary",
+    "fact": "👑 LEGENDARY WOLF FACT! Gray wolves are among the most widely distributed large carnivores in the Northern Hemisphere."
+  },
+  {
+    "id": "LEGE-018",
+    "category": "legendary",
+    "rarity": "Legendary",
+    "fact": "👑 LEGENDARY WOLF FACT! A wolf howl can unite a pack, warn rivals, and turn a quiet forest into a mythic soundscape."
+  },
+  {
+    "id": "LEGE-019",
+    "category": "legendary",
+    "rarity": "Legendary",
+    "fact": "👑 LEGENDARY WOLF FACT! Wolves are keystone predators in many ecosystems because their presence can influence prey, scavengers, and landscapes."
+  },
+  {
+    "id": "LEGE-020",
+    "category": "legendary",
+    "rarity": "Legendary",
+    "fact": "👑 LEGENDARY WOLF FACT! Black wolves in North America carry a coat-color variant linked to ancient dog ancestry."
+  },
+  {
+    "id": "LEGE-021",
+    "category": "legendary",
+    "rarity": "Legendary",
+    "fact": "👑 LEGENDARY WOLF FACT! The La Brea Tar Pits preserve thousands of dire wolf fossils, making dire wolves one of the site's most famous Ice Age predators."
+  },
+  {
+    "id": "LEGE-022",
+    "category": "legendary",
+    "rarity": "Legendary",
+    "fact": "👑 LEGENDARY WOLF FACT! The Lamar Valley in Yellowstone is one of the best places in the world to watch wild wolves from a safe distance."
+  },
+  {
+    "id": "LEGE-023",
+    "category": "legendary",
+    "rarity": "Legendary",
+    "fact": "👑 LEGENDARY WOLF FACT! Red wolf recovery began after the last wild founders were captured for a captive breeding program in the 1970s and 1980s."
+  },
+  {
+    "id": "LEGE-024",
+    "category": "legendary",
+    "rarity": "Legendary",
+    "fact": "👑 LEGENDARY WOLF FACT! Wolf conservation can succeed, but it requires prey, habitat, genetic health, and human tolerance."
+  },
+  {
+    "id": "LEGE-025",
+    "category": "legendary",
+    "rarity": "Legendary",
+    "fact": "👑 LEGENDARY WOLF FACT! Wolves have inspired gods, monsters, heroes, warnings, family stories, and wilderness dreams for thousands of years."
+  },
+  {
+    "id": "LEGE-026",
+    "category": "legendary",
+    "rarity": "Legendary",
+    "fact": "👑 LEGENDARY WOLF FACT! The word lupus is Latin for wolf and appears in the gray wolf's scientific name, Canis lupus."
+  },
+  {
+    "id": "LEGE-027",
+    "category": "legendary",
+    "rarity": "Legendary",
+    "fact": "👑 LEGENDARY WOLF FACT! The constellation Lupus preserves the wolf in the night sky as well as in myth and language."
+  },
+  {
+    "id": "LEGE-028",
+    "category": "legendary",
+    "rarity": "Legendary",
+    "fact": "👑 LEGENDARY WOLF FACT! Wolf packs are usually families, which means the famous alpha wolf idea is often misunderstood in wild wolves."
+  },
+  {
+    "id": "LEGE-029",
+    "category": "legendary",
+    "rarity": "Legendary",
+    "fact": "👑 LEGENDARY WOLF FACT! Many wild wolf packs are led by parent wolves rather than by constant dominance battles."
+  },
+  {
+    "id": "LEGE-030",
+    "category": "legendary",
+    "rarity": "Legendary",
+    "fact": "👑 LEGENDARY WOLF FACT! Wolves can transform ecosystems not by magic, but by changing where prey move, feed, and die."
+  },
+  {
+    "id": "LEGE-031",
+    "category": "legendary",
+    "rarity": "Legendary",
+    "fact": "👑 LEGENDARY WOLF FACT! A dispersing wolf can cross mountains, highways, deserts, and political boundaries in search of a future."
+  },
+  {
+    "id": "LEGE-032",
+    "category": "legendary",
+    "rarity": "Legendary",
+    "fact": "👑 LEGENDARY WOLF FACT! The return of wolves to Europe shows that large predators can recolonize landscapes even near people when laws and tolerance allow it."
+  },
+  {
+    "id": "LEGE-033",
+    "category": "legendary",
+    "rarity": "Legendary",
+    "fact": "👑 LEGENDARY WOLF FACT! Wolves and ravens often appear together at carcasses, creating one of the wilderness's most iconic predator-scavenger relationships."
+  },
+  {
+    "id": "LEGE-034",
+    "category": "legendary",
+    "rarity": "Legendary",
+    "fact": "👑 LEGENDARY WOLF FACT! Wolf pups are born helpless, but within months they begin learning the skills of one of nature's most successful carnivore families."
+  },
+  {
+    "id": "LEGE-035",
+    "category": "legendary",
+    "rarity": "Legendary",
+    "fact": "👑 LEGENDARY WOLF FACT! A wolf's strongest survival tool may not be its teeth, but its pack."
+  },
+  {
+    "id": "LEGE-036",
+    "category": "legendary",
+    "rarity": "Legendary",
+    "fact": "👑 LEGENDARY WOLF FACT! The howl of a wolf is one of the most recognizable wild sounds on Earth."
+  },
+  {
+    "id": "LEGE-037",
+    "category": "legendary",
+    "rarity": "Legendary",
+    "fact": "👑 LEGENDARY WOLF FACT! The Mexican wolf is the smallest gray wolf subspecies in North America and one of its rarest."
+  },
+  {
+    "id": "LEGE-038",
+    "category": "legendary",
+    "rarity": "Legendary",
+    "fact": "👑 LEGENDARY WOLF FACT! The Ethiopian wolf's narrow habitat makes it especially vulnerable because it lives only in scattered highland regions."
+  },
+  {
+    "id": "LEGE-039",
+    "category": "legendary",
+    "rarity": "Legendary",
+    "fact": "👑 LEGENDARY WOLF FACT! The gray wolf's ability to adapt to tundra, forest, mountains, and desert edges is part of why it survived across so much of the world."
+  },
+  {
+    "id": "LEGE-040",
+    "category": "legendary",
+    "rarity": "Legendary",
+    "fact": "👑 LEGENDARY WOLF FACT! Wolves can be fierce hunters, gentle parents, playful siblings, and cautious travelers in the same day."
+  },
+  {
+    "id": "LEGE-041",
+    "category": "legendary",
+    "rarity": "Legendary",
+    "fact": "👑 LEGENDARY WOLF FACT! The wolf's reputation as a villain says as much about human fear as it does about wolf behavior."
+  },
+  {
+    "id": "LEGE-042",
+    "category": "legendary",
+    "rarity": "Legendary",
+    "fact": "👑 LEGENDARY WOLF FACT! The real wolf is not the monster of fairy tales; it is a social carnivore shaped by family, hunger, weather, and survival."
+  },
+  {
+    "id": "LEGE-043",
+    "category": "legendary",
+    "rarity": "Legendary",
+    "fact": "👑 LEGENDARY WOLF FACT! A wolf pack's howl can announce territory without a fight, turning sound into conflict prevention."
+  },
+  {
+    "id": "LEGE-044",
+    "category": "legendary",
+    "rarity": "Legendary",
+    "fact": "👑 LEGENDARY WOLF FACT! Wolves are powerful symbols because they live where biology, folklore, and wilderness all overlap."
+  },
+  {
+    "id": "LEGE-045",
+    "category": "legendary",
+    "rarity": "Legendary",
+    "fact": "👑 LEGENDARY WOLF FACT! The story of wolves is also the story of how humans decide what kind of wildness they can live beside."
+  },
+  {
+    "id": "LEGE-046",
+    "category": "legendary",
+    "rarity": "Legendary",
+    "fact": "👑 LEGENDARY WOLF FACT! A wolf's life is a balance of cooperation, risk, travel, hunger, and loyalty."
+  },
+  {
+    "id": "LEGE-047",
+    "category": "legendary",
+    "rarity": "Legendary",
+    "fact": "👑 LEGENDARY WOLF FACT! Wolf recovery is proof that extinction is not the only possible ending when people act in time."
+  },
+  {
+    "id": "LEGE-048",
+    "category": "legendary",
+    "rarity": "Legendary",
+    "fact": "👑 LEGENDARY WOLF FACT! Few animals can turn one sound into instant atmosphere like a wolf howl."
+  },
+  {
+    "id": "LEGE-049",
+    "category": "legendary",
+    "rarity": "Legendary",
+    "fact": "👑 LEGENDARY WOLF FACT! Wolves remain legendary because they are real animals that feel mythic even before humans tell stories about them."
+  },
+  {
+    "id": "LEGE-050",
+    "category": "legendary",
+    "rarity": "Legendary",
+    "fact": "👑 LEGENDARY WOLF FACT! A wolf pack on the map can represent years of policy, biology, conflict, and hope."
+  }
+]

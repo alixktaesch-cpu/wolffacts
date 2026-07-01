@@ -1,0 +1,452 @@
+[
+  {
+    "id": "ANAT-001",
+    "category": "anatomy",
+    "rarity": "Rare",
+    "fact": "🩻 Wolves have 42 adult teeth, including long canine teeth for gripping prey."
+  },
+  {
+    "id": "ANAT-002",
+    "category": "anatomy",
+    "rarity": "Rare",
+    "fact": "🩻 A wolf's carnassial teeth work like shears to slice meat."
+  },
+  {
+    "id": "ANAT-003",
+    "category": "anatomy",
+    "rarity": "Rare",
+    "fact": "🩻 Wolves have powerful jaw muscles adapted for gripping, tearing, and crushing."
+  },
+  {
+    "id": "ANAT-004",
+    "category": "anatomy",
+    "rarity": "Rare",
+    "fact": "🩻 Wolf paws are large, helping spread weight over snow and rough ground."
+  },
+  {
+    "id": "ANAT-005",
+    "category": "anatomy",
+    "rarity": "Rare",
+    "fact": "🩻 Wolves walk on their toes, which lengthens the leg and helps efficient movement."
+  },
+  {
+    "id": "ANAT-006",
+    "category": "anatomy",
+    "rarity": "Rare",
+    "fact": "🩻 A wolf's tail helps with communication and balance."
+  },
+  {
+    "id": "ANAT-007",
+    "category": "anatomy",
+    "rarity": "Rare",
+    "fact": "🩻 Wolves have a dense undercoat and longer guard hairs that help protect them from weather."
+  },
+  {
+    "id": "ANAT-008",
+    "category": "anatomy",
+    "rarity": "Rare",
+    "fact": "🩻 Wolves shed seasonally, losing much of their thick winter undercoat in warmer months."
+  },
+  {
+    "id": "ANAT-009",
+    "category": "anatomy",
+    "rarity": "Rare",
+    "fact": "🩻 A wolf's nose is packed with scent receptors that make smell one of its strongest senses."
+  },
+  {
+    "id": "ANAT-010",
+    "category": "anatomy",
+    "rarity": "Rare",
+    "fact": "🩻 Wolves have binocular vision in front and a broader field of view to detect movement."
+  },
+  {
+    "id": "ANAT-011",
+    "category": "anatomy",
+    "rarity": "Rare",
+    "fact": "🩻 Wolves see well in dim light because their eyes are adapted for dawn, dusk, and night activity."
+  },
+  {
+    "id": "ANAT-012",
+    "category": "anatomy",
+    "rarity": "Rare",
+    "fact": "🩻 A wolf's ears can rotate to track sounds from different directions."
+  },
+  {
+    "id": "ANAT-013",
+    "category": "anatomy",
+    "rarity": "Rare",
+    "fact": "🩻 Wolf hearing helps detect prey, pups, rivals, and packmates at a distance."
+  },
+  {
+    "id": "ANAT-014",
+    "category": "anatomy",
+    "rarity": "Rare",
+    "fact": "🩻 Wolves have long legs relative to body size, which helps with endurance travel."
+  },
+  {
+    "id": "ANAT-015",
+    "category": "anatomy",
+    "rarity": "Rare",
+    "fact": "🩻 A wolf's chest and lungs support sustained trotting across long distances."
+  },
+  {
+    "id": "ANAT-016",
+    "category": "anatomy",
+    "rarity": "Rare",
+    "fact": "🩻 Wolves have strong neck muscles for gripping and pulling during feeding."
+  },
+  {
+    "id": "ANAT-017",
+    "category": "anatomy",
+    "rarity": "Rare",
+    "fact": "🩻 Wolf claws are blunt compared with cat claws because they stay exposed and wear down while walking."
+  },
+  {
+    "id": "ANAT-018",
+    "category": "anatomy",
+    "rarity": "Rare",
+    "fact": "🩻 Wolves cannot retract their claws."
+  },
+  {
+    "id": "ANAT-019",
+    "category": "anatomy",
+    "rarity": "Rare",
+    "fact": "🩻 Wolf paw pads are tough enough for ice, rock, soil, and snow."
+  },
+  {
+    "id": "ANAT-020",
+    "category": "anatomy",
+    "rarity": "Rare",
+    "fact": "🩻 Wolves have a digitigrade stance, meaning they walk on their toes rather than flat feet."
+  },
+  {
+    "id": "ANAT-021",
+    "category": "anatomy",
+    "rarity": "Rare",
+    "fact": "🩻 A wolf's stomach can stretch to handle a large meal after a successful hunt."
+  },
+  {
+    "id": "ANAT-022",
+    "category": "anatomy",
+    "rarity": "Rare",
+    "fact": "🩻 Wolf pups have blue eyes when very young, but adult eye color usually shifts toward yellow, amber, or brown."
+  },
+  {
+    "id": "ANAT-023",
+    "category": "anatomy",
+    "rarity": "Rare",
+    "fact": "🩻 Adult wolves are usually taller and longer-legged than coyotes."
+  },
+  {
+    "id": "ANAT-024",
+    "category": "anatomy",
+    "rarity": "Rare",
+    "fact": "🩻 A wolf's winter coat can make it look much larger than it is."
+  },
+  {
+    "id": "ANAT-025",
+    "category": "anatomy",
+    "rarity": "Rare",
+    "fact": "🩻 Raised hackles can make a wolf look bigger during tension or threat displays."
+  },
+  {
+    "id": "ANAT-026",
+    "category": "anatomy",
+    "rarity": "Rare",
+    "fact": "🩻 A wolf's whiskers help sense close objects around the muzzle."
+  },
+  {
+    "id": "ANAT-027",
+    "category": "anatomy",
+    "rarity": "Rare",
+    "fact": "🩻 Wolves pant to help regulate body temperature, especially after exertion."
+  },
+  {
+    "id": "ANAT-028",
+    "category": "anatomy",
+    "rarity": "Rare",
+    "fact": "🩻 Wolves have strong ligaments and tendons that support long-distance movement."
+  },
+  {
+    "id": "ANAT-029",
+    "category": "anatomy",
+    "rarity": "Rare",
+    "fact": "🩻 Wolf skeletons are built for running and endurance."
+  },
+  {
+    "id": "ANAT-030",
+    "category": "anatomy",
+    "rarity": "Rare",
+    "fact": "🩻 The wet surface of a wolf's nose helps capture scent particles."
+  },
+  {
+    "id": "ANAT-031",
+    "category": "anatomy",
+    "rarity": "Rare",
+    "fact": "🩻 Wolves can make many vocal sounds, including howls, whines, growls, barks, yips, and squeaks."
+  },
+  {
+    "id": "ANAT-032",
+    "category": "anatomy",
+    "rarity": "Rare",
+    "fact": "🩻 Wolves often direct-register, placing hind feet near the front-foot tracks to save energy."
+  },
+  {
+    "id": "ANAT-033",
+    "category": "anatomy",
+    "rarity": "Rare",
+    "fact": "🩻 Snow can pile on a wolf's back without melting quickly because the winter coat insulates so well."
+  },
+  {
+    "id": "ANAT-034",
+    "category": "anatomy",
+    "rarity": "Rare",
+    "fact": "🩻 Wolves can suffer from mange, parvovirus, distemper, injuries, and worn teeth."
+  },
+  {
+    "id": "ANAT-035",
+    "category": "anatomy",
+    "rarity": "Rare",
+    "fact": "🩻 Mange is caused by mites and can make wolves lose insulating fur."
+  },
+  {
+    "id": "ANAT-036",
+    "category": "anatomy",
+    "rarity": "Rare",
+    "fact": "🩻 Teeth are critical for wolves; broken canines or worn teeth can make hunting and feeding harder."
+  },
+  {
+    "id": "ANAT-037",
+    "category": "anatomy",
+    "rarity": "Rare",
+    "fact": "🩻 Older wolves may show worn teeth, scars, and healed injuries from years in the wild."
+  },
+  {
+    "id": "ANAT-038",
+    "category": "anatomy",
+    "rarity": "Rare",
+    "fact": "🩻 Wolves use scent glands near the tail and paws as part of chemical communication."
+  },
+  {
+    "id": "ANAT-039",
+    "category": "anatomy",
+    "rarity": "Rare",
+    "fact": "🩻 A wolf's heart and lungs support endurance rather than cheetah-like sprinting."
+  },
+  {
+    "id": "ANAT-040",
+    "category": "anatomy",
+    "rarity": "Rare",
+    "fact": "🩻 Wolf size varies widely by region, with northern wolves often larger than southern wolves."
+  },
+  {
+    "id": "ANAT-041",
+    "category": "anatomy",
+    "rarity": "Rare",
+    "fact": "🩻 Newborn wolf pups are tiny compared with adults and depend completely on care."
+  },
+  {
+    "id": "ANAT-042",
+    "category": "anatomy",
+    "rarity": "Rare",
+    "fact": "🩻 Wolves use incisors for nibbling, grooming, and scraping food from bones."
+  },
+  {
+    "id": "ANAT-043",
+    "category": "anatomy",
+    "rarity": "Rare",
+    "fact": "🩻 Wolf paws can act like natural snowshoes compared with smaller-footed animals."
+  },
+  {
+    "id": "ANAT-044",
+    "category": "anatomy",
+    "rarity": "Rare",
+    "fact": "🩻 Wolves are built like marathon predators: lean, long-legged, alert, and energy-conscious."
+  },
+  {
+    "id": "ANAT-045",
+    "category": "anatomy",
+    "rarity": "Rare",
+    "fact": "🩻 A wolf's body is a toolkit for endurance: nose for tracking, legs for travel, teeth for feeding, and fur for weather."
+  },
+  {
+    "id": "ANAT-046",
+    "category": "anatomy",
+    "rarity": "Rare",
+    "fact": "🩻 A wolf's anatomy reflects a life of travel, teamwork, and opportunistic hunting."
+  },
+  {
+    "id": "ANAT-047",
+    "category": "anatomy",
+    "rarity": "Rare",
+    "fact": "🩻 Wolves are strong, but survival depends as much on caution and cooperation as on anatomy."
+  },
+  {
+    "id": "ANAT-048",
+    "category": "anatomy",
+    "rarity": "Rare",
+    "fact": "🩻 A wolf's anatomy reflects a life of travel, teamwork, and opportunistic hunting."
+  },
+  {
+    "id": "ANAT-049",
+    "category": "anatomy",
+    "rarity": "Rare",
+    "fact": "🩻 A wolf's anatomy reflects a life of travel, teamwork, and opportunistic hunting."
+  },
+  {
+    "id": "ANAT-050",
+    "category": "anatomy",
+    "rarity": "Rare",
+    "fact": "🩻 Even powerful wolves can be injured by prey, which is why hunting large animals is risky."
+  },
+  {
+    "id": "ANAT-051",
+    "category": "anatomy",
+    "rarity": "Rare",
+    "fact": "🩻 Even powerful wolves can be injured by prey, which is why hunting large animals is risky."
+  },
+  {
+    "id": "ANAT-052",
+    "category": "anatomy",
+    "rarity": "Rare",
+    "fact": "🩻 A wolf's physical design favors endurance, sensing, and efficient movement through wild terrain."
+  },
+  {
+    "id": "ANAT-053",
+    "category": "anatomy",
+    "rarity": "Rare",
+    "fact": "🩻 Even powerful wolves can be injured by prey, which is why hunting large animals is risky."
+  },
+  {
+    "id": "ANAT-054",
+    "category": "anatomy",
+    "rarity": "Rare",
+    "fact": "🩻 Even powerful wolves can be injured by prey, which is why hunting large animals is risky."
+  },
+  {
+    "id": "ANAT-055",
+    "category": "anatomy",
+    "rarity": "Rare",
+    "fact": "🩻 Wolves are strong, but survival depends as much on caution and cooperation as on anatomy."
+  },
+  {
+    "id": "ANAT-056",
+    "category": "anatomy",
+    "rarity": "Rare",
+    "fact": "🩻 Wolves are not oversized dogs; their anatomy is shaped by wild survival."
+  },
+  {
+    "id": "ANAT-057",
+    "category": "anatomy",
+    "rarity": "Rare",
+    "fact": "🩻 Wolves are not oversized dogs; their anatomy is shaped by wild survival."
+  },
+  {
+    "id": "ANAT-058",
+    "category": "anatomy",
+    "rarity": "Rare",
+    "fact": "🩻 A wolf's anatomy reflects a life of travel, teamwork, and opportunistic hunting."
+  },
+  {
+    "id": "ANAT-059",
+    "category": "anatomy",
+    "rarity": "Rare",
+    "fact": "🩻 Wolves are strong, but survival depends as much on caution and cooperation as on anatomy."
+  },
+  {
+    "id": "ANAT-060",
+    "category": "anatomy",
+    "rarity": "Rare",
+    "fact": "🩻 Wolves are strong, but survival depends as much on caution and cooperation as on anatomy."
+  },
+  {
+    "id": "ANAT-061",
+    "category": "anatomy",
+    "rarity": "Rare",
+    "fact": "🩻 A wolf's anatomy reflects a life of travel, teamwork, and opportunistic hunting."
+  },
+  {
+    "id": "ANAT-062",
+    "category": "anatomy",
+    "rarity": "Rare",
+    "fact": "🩻 Even powerful wolves can be injured by prey, which is why hunting large animals is risky."
+  },
+  {
+    "id": "ANAT-063",
+    "category": "anatomy",
+    "rarity": "Rare",
+    "fact": "🩻 A wolf's physical design favors endurance, sensing, and efficient movement through wild terrain."
+  },
+  {
+    "id": "ANAT-064",
+    "category": "anatomy",
+    "rarity": "Rare",
+    "fact": "🩻 A wolf's physical design favors endurance, sensing, and efficient movement through wild terrain."
+  },
+  {
+    "id": "ANAT-065",
+    "category": "anatomy",
+    "rarity": "Rare",
+    "fact": "🩻 Wolves are not oversized dogs; their anatomy is shaped by wild survival."
+  },
+  {
+    "id": "ANAT-066",
+    "category": "anatomy",
+    "rarity": "Rare",
+    "fact": "🩻 Even powerful wolves can be injured by prey, which is why hunting large animals is risky."
+  },
+  {
+    "id": "ANAT-067",
+    "category": "anatomy",
+    "rarity": "Rare",
+    "fact": "🩻 Even powerful wolves can be injured by prey, which is why hunting large animals is risky."
+  },
+  {
+    "id": "ANAT-068",
+    "category": "anatomy",
+    "rarity": "Rare",
+    "fact": "🩻 Even powerful wolves can be injured by prey, which is why hunting large animals is risky."
+  },
+  {
+    "id": "ANAT-069",
+    "category": "anatomy",
+    "rarity": "Rare",
+    "fact": "🩻 Wolves are not oversized dogs; their anatomy is shaped by wild survival."
+  },
+  {
+    "id": "ANAT-070",
+    "category": "anatomy",
+    "rarity": "Rare",
+    "fact": "🩻 A wolf's physical design favors endurance, sensing, and efficient movement through wild terrain."
+  },
+  {
+    "id": "ANAT-071",
+    "category": "anatomy",
+    "rarity": "Rare",
+    "fact": "🩻 Even powerful wolves can be injured by prey, which is why hunting large animals is risky."
+  },
+  {
+    "id": "ANAT-072",
+    "category": "anatomy",
+    "rarity": "Rare",
+    "fact": "🩻 Wolves are strong, but survival depends as much on caution and cooperation as on anatomy."
+  },
+  {
+    "id": "ANAT-073",
+    "category": "anatomy",
+    "rarity": "Rare",
+    "fact": "🩻 A wolf's physical design favors endurance, sensing, and efficient movement through wild terrain."
+  },
+  {
+    "id": "ANAT-074",
+    "category": "anatomy",
+    "rarity": "Rare",
+    "fact": "🩻 Wolves are not oversized dogs; their anatomy is shaped by wild survival."
+  },
+  {
+    "id": "ANAT-075",
+    "category": "anatomy",
+    "rarity": "Rare",
+    "fact": "🩻 A wolf's physical design favors endurance, sensing, and efficient movement through wild terrain."
+  }
+]

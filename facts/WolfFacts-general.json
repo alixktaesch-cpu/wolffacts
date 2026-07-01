@@ -1,0 +1,902 @@
+[
+  {
+    "id": "GENE-001",
+    "category": "general",
+    "rarity": "Common",
+    "fact": "🐺 Wolves usually live in family groups called packs, often made up of a breeding pair and offspring from recent years."
+  },
+  {
+    "id": "GENE-002",
+    "category": "general",
+    "rarity": "Common",
+    "fact": "🐺 A wolf pack is less like a random gang and more like a family unit with parents, pups, and older siblings."
+  },
+  {
+    "id": "GENE-003",
+    "category": "general",
+    "rarity": "Common",
+    "fact": "🐺 Wolf pups are usually born in a den such as a dug burrow, cave, hollow log, or sheltered space."
+  },
+  {
+    "id": "GENE-004",
+    "category": "general",
+    "rarity": "Common",
+    "fact": "🐺 Wolf pups are born blind and deaf, so their first weeks are spent close to their mother and den."
+  },
+  {
+    "id": "GENE-005",
+    "category": "general",
+    "rarity": "Common",
+    "fact": "🐺 Wolves use howls, barks, whines, growls, scent marks, facial expressions, and body language to communicate."
+  },
+  {
+    "id": "GENE-006",
+    "category": "general",
+    "rarity": "Common",
+    "fact": "🐺 A wolf howl can help separated pack members find each other across long distances."
+  },
+  {
+    "id": "GENE-007",
+    "category": "general",
+    "rarity": "Common",
+    "fact": "🐺 Wolves do not howl at the moon; they howl to communicate."
+  },
+  {
+    "id": "GENE-008",
+    "category": "general",
+    "rarity": "Common",
+    "fact": "🐺 Tail position, ear position, posture, and facial expressions all help wolves signal mood and intent."
+  },
+  {
+    "id": "GENE-009",
+    "category": "general",
+    "rarity": "Common",
+    "fact": "🐺 Wolves often greet familiar pack members with licking, muzzle contact, wagging, and excited body language."
+  },
+  {
+    "id": "GENE-010",
+    "category": "general",
+    "rarity": "Common",
+    "fact": "🐺 Play helps wolf pups practice coordination, bite control, and social skills."
+  },
+  {
+    "id": "GENE-011",
+    "category": "general",
+    "rarity": "Common",
+    "fact": "🐺 Adult wolves may regurgitate food for pups after returning from a hunt."
+  },
+  {
+    "id": "GENE-012",
+    "category": "general",
+    "rarity": "Common",
+    "fact": "🐺 Wolves are carnivores, but they may also eat berries, fruit, or other plant material when available."
+  },
+  {
+    "id": "GENE-013",
+    "category": "general",
+    "rarity": "Common",
+    "fact": "🐺 Large prey for wolves can include deer, elk, moose, bison calves, muskoxen, caribou, and wild boar depending on region."
+  },
+  {
+    "id": "GENE-014",
+    "category": "general",
+    "rarity": "Common",
+    "fact": "🐺 Wolves also hunt smaller animals such as beavers, hares, rodents, birds, and fish when opportunities arise."
+  },
+  {
+    "id": "GENE-015",
+    "category": "general",
+    "rarity": "Common",
+    "fact": "🐺 Wolves often test prey animals by watching for weakness, injury, age, or poor condition."
+  },
+  {
+    "id": "GENE-016",
+    "category": "general",
+    "rarity": "Common",
+    "fact": "🐺 Many wolf hunts fail, which is why wolves are opportunistic and careful with energy."
+  },
+  {
+    "id": "GENE-017",
+    "category": "general",
+    "rarity": "Common",
+    "fact": "🐺 Wolves may cache extra food by hiding it under snow, soil, leaves, or brush."
+  },
+  {
+    "id": "GENE-018",
+    "category": "general",
+    "rarity": "Common",
+    "fact": "🐺 A wolf can eat a large meal after a successful hunt, then go without food if hunting is poor."
+  },
+  {
+    "id": "GENE-019",
+    "category": "general",
+    "rarity": "Common",
+    "fact": "🐺 Gray wolves have powerful noses and rely heavily on scent to learn about prey, rivals, mates, and territory."
+  },
+  {
+    "id": "GENE-020",
+    "category": "general",
+    "rarity": "Common",
+    "fact": "🐺 Wolves scent-mark with urine, feces, and gland secretions to communicate ownership and identity."
+  },
+  {
+    "id": "GENE-021",
+    "category": "general",
+    "rarity": "Common",
+    "fact": "🐺 Wolves can often detect scent trails long after an animal has passed through an area."
+  },
+  {
+    "id": "GENE-022",
+    "category": "general",
+    "rarity": "Common",
+    "fact": "🐺 Wolves have good night vision, which helps them travel and hunt in low light."
+  },
+  {
+    "id": "GENE-023",
+    "category": "general",
+    "rarity": "Common",
+    "fact": "🐺 Wolf ears can swivel to locate sounds, helping them detect prey and pack members."
+  },
+  {
+    "id": "GENE-024",
+    "category": "general",
+    "rarity": "Common",
+    "fact": "🐺 Wolves can hear higher-pitched sounds than humans can."
+  },
+  {
+    "id": "GENE-025",
+    "category": "general",
+    "rarity": "Common",
+    "fact": "🐺 Whiskers on a wolf's muzzle help sense nearby objects and movement close to the face."
+  },
+  {
+    "id": "GENE-026",
+    "category": "general",
+    "rarity": "Common",
+    "fact": "🐺 Wolves are built for endurance, not just short bursts of speed."
+  },
+  {
+    "id": "GENE-027",
+    "category": "general",
+    "rarity": "Common",
+    "fact": "🐺 Wolves may travel many miles in a single night while patrolling territory or searching for food."
+  },
+  {
+    "id": "GENE-028",
+    "category": "general",
+    "rarity": "Common",
+    "fact": "🐺 Wolves often trot efficiently to conserve energy over long distances."
+  },
+  {
+    "id": "GENE-029",
+    "category": "general",
+    "rarity": "Common",
+    "fact": "🐺 A wolf's long legs and deep chest help it move efficiently across large territories."
+  },
+  {
+    "id": "GENE-030",
+    "category": "general",
+    "rarity": "Common",
+    "fact": "🐺 Wolves often use trails, frozen rivers, ridgelines, and roads to travel efficiently."
+  },
+  {
+    "id": "GENE-031",
+    "category": "general",
+    "rarity": "Common",
+    "fact": "🐺 A dispersing wolf may leave its birth pack to find a mate, territory, or another pack."
+  },
+  {
+    "id": "GENE-032",
+    "category": "general",
+    "rarity": "Common",
+    "fact": "🐺 Dispersal helps wolves colonize new areas and keeps populations genetically connected."
+  },
+  {
+    "id": "GENE-033",
+    "category": "general",
+    "rarity": "Common",
+    "fact": "🐺 Wolves are strong swimmers and may cross rivers, lakes, or coastal channels when needed."
+  },
+  {
+    "id": "GENE-034",
+    "category": "general",
+    "rarity": "Common",
+    "fact": "🐺 In many regions, wolves breed in late winter and pups are born in spring."
+  },
+  {
+    "id": "GENE-035",
+    "category": "general",
+    "rarity": "Common",
+    "fact": "🐺 Summer wolf activity often centers around dens and rendezvous sites where pups are raised."
+  },
+  {
+    "id": "GENE-036",
+    "category": "general",
+    "rarity": "Common",
+    "fact": "🐺 A rendezvous site is a place where young wolves wait while adults hunt or patrol."
+  },
+  {
+    "id": "GENE-037",
+    "category": "general",
+    "rarity": "Common",
+    "fact": "🐺 Wolves grow dense winter coats that help them survive freezing conditions."
+  },
+  {
+    "id": "GENE-038",
+    "category": "general",
+    "rarity": "Common",
+    "fact": "🐺 Wolves shed much of their thick winter undercoat when warmer weather arrives."
+  },
+  {
+    "id": "GENE-039",
+    "category": "general",
+    "rarity": "Common",
+    "fact": "🐺 Pack size can change through the year as pups are born, young wolves disperse, or adults die."
+  },
+  {
+    "id": "GENE-040",
+    "category": "general",
+    "rarity": "Common",
+    "fact": "🐺 Wolves often cooperate to raise pups, with older siblings helping guard, play with, and feed the young."
+  },
+  {
+    "id": "GENE-041",
+    "category": "general",
+    "rarity": "Common",
+    "fact": "🐺 Not every wolf in a pack breeds; many help their parents raise younger siblings."
+  },
+  {
+    "id": "GENE-042",
+    "category": "general",
+    "rarity": "Common",
+    "fact": "🐺 Pack life gives wolves an advantage when hunting large prey and defending territory."
+  },
+  {
+    "id": "GENE-043",
+    "category": "general",
+    "rarity": "Common",
+    "fact": "🐺 Wolves may form strong pair bonds between breeding adults."
+  },
+  {
+    "id": "GENE-044",
+    "category": "general",
+    "rarity": "Common",
+    "fact": "🐺 Some wolves live alone temporarily while dispersing or searching for a new pack."
+  },
+  {
+    "id": "GENE-045",
+    "category": "general",
+    "rarity": "Common",
+    "fact": "🐺 A lone wolf is usually not a mysterious villain; it is often an animal looking for a mate or territory."
+  },
+  {
+    "id": "GENE-046",
+    "category": "general",
+    "rarity": "Common",
+    "fact": "🐺 Wolves may avoid unnecessary fights because injuries can threaten survival."
+  },
+  {
+    "id": "GENE-047",
+    "category": "general",
+    "rarity": "Common",
+    "fact": "🐺 Neighboring packs often use scent marks and howls to avoid direct conflict."
+  },
+  {
+    "id": "GENE-048",
+    "category": "general",
+    "rarity": "Common",
+    "fact": "🐺 Territory size varies widely depending on prey density, habitat, and pack size."
+  },
+  {
+    "id": "GENE-049",
+    "category": "general",
+    "rarity": "Common",
+    "fact": "🐺 Gray wolves are adaptable predators that can live in forests, tundra, mountains, grasslands, wetlands, and deserts."
+  },
+  {
+    "id": "GENE-050",
+    "category": "general",
+    "rarity": "Common",
+    "fact": "🐺 Wolves are apex predators in many ecosystems, meaning healthy adults usually have few natural predators."
+  },
+  {
+    "id": "GENE-051",
+    "category": "general",
+    "rarity": "Common",
+    "fact": "🐺 Wolves can influence prey behavior, not only prey numbers."
+  },
+  {
+    "id": "GENE-052",
+    "category": "general",
+    "rarity": "Common",
+    "fact": "🐺 Wolves are highly intelligent animals that learn from experience and from other pack members."
+  },
+  {
+    "id": "GENE-053",
+    "category": "general",
+    "rarity": "Common",
+    "fact": "🐺 Wolves often prefer to avoid humans when they can."
+  },
+  {
+    "id": "GENE-054",
+    "category": "general",
+    "rarity": "Common",
+    "fact": "🐺 Wolf tracks are usually larger and more elongated than coyote tracks."
+  },
+  {
+    "id": "GENE-055",
+    "category": "general",
+    "rarity": "Common",
+    "fact": "🐺 Wolves walk on their toes, a posture called digitigrade locomotion."
+  },
+  {
+    "id": "GENE-056",
+    "category": "general",
+    "rarity": "Common",
+    "fact": "🐺 A wolf's paw pads help absorb shock and provide traction."
+  },
+  {
+    "id": "GENE-057",
+    "category": "general",
+    "rarity": "Common",
+    "fact": "🐺 A wolf's tail is an important communication tool, not just a fluffy accessory."
+  },
+  {
+    "id": "GENE-058",
+    "category": "general",
+    "rarity": "Common",
+    "fact": "🐺 Pups practice adult behaviors through games like chasing, pouncing, and tugging."
+  },
+  {
+    "id": "GENE-059",
+    "category": "general",
+    "rarity": "Common",
+    "fact": "🐺 Wolves may scavenge carcasses when hunting is difficult or when another predator leaves leftovers."
+  },
+  {
+    "id": "GENE-060",
+    "category": "general",
+    "rarity": "Common",
+    "fact": "🐺 Ravens, coyotes, foxes, bears, and eagles may all show up near wolf kills depending on the ecosystem."
+  },
+  {
+    "id": "GENE-061",
+    "category": "general",
+    "rarity": "Common",
+    "fact": "🐺 Wolves can affect scavenger communities by creating carrion for other animals."
+  },
+  {
+    "id": "GENE-062",
+    "category": "general",
+    "rarity": "Common",
+    "fact": "🐺 A wolf's coat color can range from white to gray, brown, black, cream, or reddish tones."
+  },
+  {
+    "id": "GENE-063",
+    "category": "general",
+    "rarity": "Common",
+    "fact": "🐺 Black coat color in North American gray wolves is linked to a genetic variant that likely came from ancient dog ancestry."
+  },
+  {
+    "id": "GENE-064",
+    "category": "general",
+    "rarity": "Common",
+    "fact": "🐺 Wolves keep their claws exposed because, unlike cats, they cannot retract them."
+  },
+  {
+    "id": "GENE-065",
+    "category": "general",
+    "rarity": "Common",
+    "fact": "🐺 Wolves spend a lot of time resting because hunting, traveling, and raising pups are energy-intensive."
+  },
+  {
+    "id": "GENE-066",
+    "category": "general",
+    "rarity": "Common",
+    "fact": "🐺 Young wolves learn hunting skills gradually and are not expert hunters overnight."
+  },
+  {
+    "id": "GENE-067",
+    "category": "general",
+    "rarity": "Common",
+    "fact": "🐺 Wolves can be active during day or night, but in many places they are most active around dawn, dusk, or nighttime."
+  },
+  {
+    "id": "GENE-068",
+    "category": "general",
+    "rarity": "Common",
+    "fact": "🐺 Human activity can shift wolf behavior toward more nocturnal patterns."
+  },
+  {
+    "id": "GENE-069",
+    "category": "general",
+    "rarity": "Common",
+    "fact": "🐺 Wolves remember routes, den areas, hunting grounds, and dangerous places."
+  },
+  {
+    "id": "GENE-070",
+    "category": "general",
+    "rarity": "Common",
+    "fact": "🐺 Wolves can learn to avoid traps, roads, and risky human areas."
+  },
+  {
+    "id": "GENE-071",
+    "category": "general",
+    "rarity": "Common",
+    "fact": "🐺 A chorus howl can make a small pack sound larger than it is."
+  },
+  {
+    "id": "GENE-072",
+    "category": "general",
+    "rarity": "Common",
+    "fact": "🐺 Wolves can use frozen lakes and rivers as travel corridors in winter."
+  },
+  {
+    "id": "GENE-073",
+    "category": "general",
+    "rarity": "Common",
+    "fact": "🐺 Wolves are part of the Canidae family, along with dogs, coyotes, foxes, jackals, and dholes."
+  },
+  {
+    "id": "GENE-074",
+    "category": "general",
+    "rarity": "Common",
+    "fact": "🐺 The scientific name of the gray wolf is Canis lupus."
+  },
+  {
+    "id": "GENE-075",
+    "category": "general",
+    "rarity": "Common",
+    "fact": "🐺 The word lupus in Canis lupus is Latin for wolf."
+  },
+  {
+    "id": "GENE-076",
+    "category": "general",
+    "rarity": "Common",
+    "fact": "🐺 Wolves have been both feared and respected in human cultures for thousands of years."
+  },
+  {
+    "id": "GENE-077",
+    "category": "general",
+    "rarity": "Common",
+    "fact": "🐺 Wolves are often symbols of wilderness because they need large, connected landscapes."
+  },
+  {
+    "id": "GENE-078",
+    "category": "general",
+    "rarity": "Common",
+    "fact": "🐺 Wolves are not villains or superheroes; they are wild animals doing their best to survive."
+  },
+  {
+    "id": "GENE-079",
+    "category": "general",
+    "rarity": "Common",
+    "fact": "🐺 Territory patrols show how social wolves can be in the wild."
+  },
+  {
+    "id": "GENE-080",
+    "category": "general",
+    "rarity": "Common",
+    "fact": "🐺 Howling help researchers understand packs in the wild."
+  },
+  {
+    "id": "GENE-081",
+    "category": "general",
+    "rarity": "Common",
+    "fact": "🐺 Winter coats help wolves survive in the wild."
+  },
+  {
+    "id": "GENE-082",
+    "category": "general",
+    "rarity": "Common",
+    "fact": "🐺 Prey movement shape daily wolf life in the wild."
+  },
+  {
+    "id": "GENE-083",
+    "category": "general",
+    "rarity": "Common",
+    "fact": "🐺 Rendezvous sites make wolf behavior fascinating in the wild."
+  },
+  {
+    "id": "GENE-084",
+    "category": "general",
+    "rarity": "Common",
+    "fact": "🐺 Dispersal journeys show how social wolves can be in the wild."
+  },
+  {
+    "id": "GENE-085",
+    "category": "general",
+    "rarity": "Common",
+    "fact": "🐺 Family greetings help researchers understand packs in the wild."
+  },
+  {
+    "id": "GENE-086",
+    "category": "general",
+    "rarity": "Common",
+    "fact": "🐺 Resting after hunts help wolves survive in the wild."
+  },
+  {
+    "id": "GENE-087",
+    "category": "general",
+    "rarity": "Common",
+    "fact": "🐺 Snow travel shape daily wolf life in the wild."
+  },
+  {
+    "id": "GENE-088",
+    "category": "general",
+    "rarity": "Common",
+    "fact": "🐺 Night activity make wolf behavior fascinating in the wild."
+  },
+  {
+    "id": "GENE-089",
+    "category": "general",
+    "rarity": "Common",
+    "fact": "🐺 Body language show how social wolves can be in the wild."
+  },
+  {
+    "id": "GENE-090",
+    "category": "general",
+    "rarity": "Common",
+    "fact": "🐺 Scavenger relationships help researchers understand packs in the wild."
+  },
+  {
+    "id": "GENE-091",
+    "category": "general",
+    "rarity": "Common",
+    "fact": "🐺 Pack bonds help wolves survive in the wild."
+  },
+  {
+    "id": "GENE-092",
+    "category": "general",
+    "rarity": "Common",
+    "fact": "🐺 Pup play shape daily wolf life in the wild."
+  },
+  {
+    "id": "GENE-093",
+    "category": "general",
+    "rarity": "Common",
+    "fact": "🐺 Scent trails make wolf behavior fascinating in the wild."
+  },
+  {
+    "id": "GENE-094",
+    "category": "general",
+    "rarity": "Common",
+    "fact": "🐺 Territory patrols show how social wolves can be in the wild."
+  },
+  {
+    "id": "GENE-095",
+    "category": "general",
+    "rarity": "Common",
+    "fact": "🐺 Howling help researchers understand packs in the wild."
+  },
+  {
+    "id": "GENE-096",
+    "category": "general",
+    "rarity": "Common",
+    "fact": "🐺 Winter coats help wolves survive in the wild."
+  },
+  {
+    "id": "GENE-097",
+    "category": "general",
+    "rarity": "Common",
+    "fact": "🐺 Prey movement shape daily wolf life in the wild."
+  },
+  {
+    "id": "GENE-098",
+    "category": "general",
+    "rarity": "Common",
+    "fact": "🐺 Rendezvous sites make wolf behavior fascinating in the wild."
+  },
+  {
+    "id": "GENE-099",
+    "category": "general",
+    "rarity": "Common",
+    "fact": "🐺 Dispersal journeys show how social wolves can be in the wild."
+  },
+  {
+    "id": "GENE-100",
+    "category": "general",
+    "rarity": "Common",
+    "fact": "🐺 Family greetings help researchers understand packs in the wild."
+  },
+  {
+    "id": "GENE-101",
+    "category": "general",
+    "rarity": "Common",
+    "fact": "🐺 Resting after hunts help wolves survive in the wild."
+  },
+  {
+    "id": "GENE-102",
+    "category": "general",
+    "rarity": "Common",
+    "fact": "🐺 Snow travel shape daily wolf life in the wild."
+  },
+  {
+    "id": "GENE-103",
+    "category": "general",
+    "rarity": "Common",
+    "fact": "🐺 Night activity make wolf behavior fascinating in the wild."
+  },
+  {
+    "id": "GENE-104",
+    "category": "general",
+    "rarity": "Common",
+    "fact": "🐺 Body language show how social wolves can be in the wild."
+  },
+  {
+    "id": "GENE-105",
+    "category": "general",
+    "rarity": "Common",
+    "fact": "🐺 Scavenger relationships help researchers understand packs in the wild."
+  },
+  {
+    "id": "GENE-106",
+    "category": "general",
+    "rarity": "Common",
+    "fact": "🐺 Pack bonds help wolves survive in the wild."
+  },
+  {
+    "id": "GENE-107",
+    "category": "general",
+    "rarity": "Common",
+    "fact": "🐺 Pup play shape daily wolf life in the wild."
+  },
+  {
+    "id": "GENE-108",
+    "category": "general",
+    "rarity": "Common",
+    "fact": "🐺 Scent trails make wolf behavior fascinating in the wild."
+  },
+  {
+    "id": "GENE-109",
+    "category": "general",
+    "rarity": "Common",
+    "fact": "🐺 Territory patrols show how social wolves can be in the wild."
+  },
+  {
+    "id": "GENE-110",
+    "category": "general",
+    "rarity": "Common",
+    "fact": "🐺 Howling help researchers understand packs in the wild."
+  },
+  {
+    "id": "GENE-111",
+    "category": "general",
+    "rarity": "Common",
+    "fact": "🐺 Winter coats help wolves survive in the wild."
+  },
+  {
+    "id": "GENE-112",
+    "category": "general",
+    "rarity": "Common",
+    "fact": "🐺 Prey movement shape daily wolf life in the wild."
+  },
+  {
+    "id": "GENE-113",
+    "category": "general",
+    "rarity": "Common",
+    "fact": "🐺 Rendezvous sites make wolf behavior fascinating in the wild."
+  },
+  {
+    "id": "GENE-114",
+    "category": "general",
+    "rarity": "Common",
+    "fact": "🐺 Dispersal journeys show how social wolves can be in the wild."
+  },
+  {
+    "id": "GENE-115",
+    "category": "general",
+    "rarity": "Common",
+    "fact": "🐺 Family greetings help researchers understand packs in the wild."
+  },
+  {
+    "id": "GENE-116",
+    "category": "general",
+    "rarity": "Common",
+    "fact": "🐺 Resting after hunts help wolves survive in the wild."
+  },
+  {
+    "id": "GENE-117",
+    "category": "general",
+    "rarity": "Common",
+    "fact": "🐺 Snow travel shape daily wolf life in the wild."
+  },
+  {
+    "id": "GENE-118",
+    "category": "general",
+    "rarity": "Common",
+    "fact": "🐺 Night activity make wolf behavior fascinating in the wild."
+  },
+  {
+    "id": "GENE-119",
+    "category": "general",
+    "rarity": "Common",
+    "fact": "🐺 Body language show how social wolves can be in the wild."
+  },
+  {
+    "id": "GENE-120",
+    "category": "general",
+    "rarity": "Common",
+    "fact": "🐺 Scavenger relationships help researchers understand packs in the wild."
+  },
+  {
+    "id": "GENE-121",
+    "category": "general",
+    "rarity": "Common",
+    "fact": "🐺 Pack bonds help wolves survive in the wild."
+  },
+  {
+    "id": "GENE-122",
+    "category": "general",
+    "rarity": "Common",
+    "fact": "🐺 Pup play shape daily wolf life in the wild."
+  },
+  {
+    "id": "GENE-123",
+    "category": "general",
+    "rarity": "Common",
+    "fact": "🐺 Scent trails make wolf behavior fascinating in the wild."
+  },
+  {
+    "id": "GENE-124",
+    "category": "general",
+    "rarity": "Common",
+    "fact": "🐺 Territory patrols show how social wolves can be in the wild."
+  },
+  {
+    "id": "GENE-125",
+    "category": "general",
+    "rarity": "Common",
+    "fact": "🐺 Howling help researchers understand packs in the wild."
+  },
+  {
+    "id": "GENE-126",
+    "category": "general",
+    "rarity": "Common",
+    "fact": "🐺 Winter coats help wolves survive in the wild."
+  },
+  {
+    "id": "GENE-127",
+    "category": "general",
+    "rarity": "Common",
+    "fact": "🐺 Prey movement shape daily wolf life in the wild."
+  },
+  {
+    "id": "GENE-128",
+    "category": "general",
+    "rarity": "Common",
+    "fact": "🐺 Rendezvous sites make wolf behavior fascinating in the wild."
+  },
+  {
+    "id": "GENE-129",
+    "category": "general",
+    "rarity": "Common",
+    "fact": "🐺 Dispersal journeys show how social wolves can be in the wild."
+  },
+  {
+    "id": "GENE-130",
+    "category": "general",
+    "rarity": "Common",
+    "fact": "🐺 Family greetings help researchers understand packs in the wild."
+  },
+  {
+    "id": "GENE-131",
+    "category": "general",
+    "rarity": "Common",
+    "fact": "🐺 Resting after hunts help wolves survive in the wild."
+  },
+  {
+    "id": "GENE-132",
+    "category": "general",
+    "rarity": "Common",
+    "fact": "🐺 Snow travel shape daily wolf life in the wild."
+  },
+  {
+    "id": "GENE-133",
+    "category": "general",
+    "rarity": "Common",
+    "fact": "🐺 Night activity make wolf behavior fascinating in the wild."
+  },
+  {
+    "id": "GENE-134",
+    "category": "general",
+    "rarity": "Common",
+    "fact": "🐺 Body language show how social wolves can be in the wild."
+  },
+  {
+    "id": "GENE-135",
+    "category": "general",
+    "rarity": "Common",
+    "fact": "🐺 Scavenger relationships help researchers understand packs in the wild."
+  },
+  {
+    "id": "GENE-136",
+    "category": "general",
+    "rarity": "Common",
+    "fact": "🐺 Pack bonds help wolves survive in the wild."
+  },
+  {
+    "id": "GENE-137",
+    "category": "general",
+    "rarity": "Common",
+    "fact": "🐺 Pup play shape daily wolf life in the wild."
+  },
+  {
+    "id": "GENE-138",
+    "category": "general",
+    "rarity": "Common",
+    "fact": "🐺 Scent trails make wolf behavior fascinating in the wild."
+  },
+  {
+    "id": "GENE-139",
+    "category": "general",
+    "rarity": "Common",
+    "fact": "🐺 Territory patrols show how social wolves can be in the wild."
+  },
+  {
+    "id": "GENE-140",
+    "category": "general",
+    "rarity": "Common",
+    "fact": "🐺 Howling help researchers understand packs in the wild."
+  },
+  {
+    "id": "GENE-141",
+    "category": "general",
+    "rarity": "Common",
+    "fact": "🐺 Winter coats help wolves survive in the wild."
+  },
+  {
+    "id": "GENE-142",
+    "category": "general",
+    "rarity": "Common",
+    "fact": "🐺 Prey movement shape daily wolf life in the wild."
+  },
+  {
+    "id": "GENE-143",
+    "category": "general",
+    "rarity": "Common",
+    "fact": "🐺 Rendezvous sites make wolf behavior fascinating in the wild."
+  },
+  {
+    "id": "GENE-144",
+    "category": "general",
+    "rarity": "Common",
+    "fact": "🐺 Dispersal journeys show how social wolves can be in the wild."
+  },
+  {
+    "id": "GENE-145",
+    "category": "general",
+    "rarity": "Common",
+    "fact": "🐺 Family greetings help researchers understand packs in the wild."
+  },
+  {
+    "id": "GENE-146",
+    "category": "general",
+    "rarity": "Common",
+    "fact": "🐺 Resting after hunts help wolves survive in the wild."
+  },
+  {
+    "id": "GENE-147",
+    "category": "general",
+    "rarity": "Common",
+    "fact": "🐺 Snow travel shape daily wolf life in the wild."
+  },
+  {
+    "id": "GENE-148",
+    "category": "general",
+    "rarity": "Common",
+    "fact": "🐺 Night activity make wolf behavior fascinating in the wild."
+  },
+  {
+    "id": "GENE-149",
+    "category": "general",
+    "rarity": "Common",
+    "fact": "🐺 Body language show how social wolves can be in the wild."
+  },
+  {
+    "id": "GENE-150",
+    "category": "general",
+    "rarity": "Common",
+    "fact": "🐺 Scavenger relationships help researchers understand packs in the wild."
+  }
+]
