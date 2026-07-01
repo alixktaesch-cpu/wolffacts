@@ -1,9 +1,3 @@
-// WolfFacts Cloudflare Worker for StreamElements
-// 1) Upload this repo/folder to GitHub as a PUBLIC repository.
-// 2) Replace GITHUB_USER and REPO below.
-// 3) Paste this file into Cloudflare Workers and Save/Deploy.
-// 4) Use the StreamElements commands in StreamElements-Commands.txt.
-
 const GITHUB_USER = "YOUR_GITHUB_USERNAME";
 const REPO = "YOUR_REPO_NAME";
 const BRANCH = "main";
