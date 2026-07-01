@@ -1,4 +1,4 @@
-const GITHUB_USER = "=alixktaesch-cpu";
+const GITHUB_USER = "alixktaesch-cpu";
 const REPO = "wolffacts";
 const BRANCH = "main";
 
