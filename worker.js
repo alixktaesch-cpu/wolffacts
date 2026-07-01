@@ -3,14 +3,14 @@ const REPO = "wolffacts";
 const BRANCH = "main";
 
 const FACT_FILES = {
-  general: `https://raw.githubusercontent.com/alixktaesch-cpu/wolffacts/facts/WolfFacts-general.json`,
-  species: `https://raw.githubusercontent.com/alixktaesch-cpu/wolffacts/facts/WolfFacts-species.json`,
-  famous: `https://raw.githubusercontent.com/alixktaesch-cpu/wolffacts/facts/WolfFacts-famous_wolves.json`,
-  anatomy: `https://raw.githubusercontent.com/alixktaesch-cpu/wolffacts/facts/WolfFacts-anatomy.json`,
-  history: `https://raw.githubusercontent.com/alixktaesch-cpu/wolffacts/facts/WolfFacts-history_mythology.json`,
-  conservation: `https://raw.githubusercontent.com/alixktaesch-cpu/wolffacts/facts/WolfFacts-conservation.json`,
-  funny: `https://raw.githubusercontent.com/alixktaesch-cpu/wolffacts/facts/WolfFacts-funny_twitch.json`,
-  legendary: `https://raw.githubusercontent.com/alixktaesch-cpu/wolffacts/facts/WolfFacts-legendary.json`
+  general: `https://raw.githubusercontent.com/alixktaesch-cpu/wolffacts/main/facts/WolfFacts-general.json`,
+  species: `https://raw.githubusercontent.com/alixktaesch-cpu/wolffacts/main/facts/WolfFacts-species.json`,
+  famous: `https://raw.githubusercontent.com/alixktaesch-cpu/wolffacts/main/facts/WolfFacts-famous_wolves.json`,
+  anatomy: `https://raw.githubusercontent.com/alixktaesch-cpu/wolffacts/main/facts/WolfFacts-anatomy.json`,
+  history: `https://raw.githubusercontent.com/alixktaesch-cpu/wolffacts/main/facts/WolfFacts-history_mythology.json`,
+  conservation: `https://raw.githubusercontent.com/alixktaesch-cpu/wolffacts/main/facts/WolfFacts-conservation.json`,
+  funny: `https://raw.githubusercontent.com/alixktaesch-cpu/wolffacts/main/facts/WolfFacts-funny_twitch.json`,
+  legendary: `https://raw.githubusercontent.com/alixktaesch-cpu/wolffacts/main/facts/WolfFacts-legendary.json`
 };
 
 const RANDOM_POOL = ["general", "general", "general", "species", "species", "anatomy", "conservation", "history", "famous", "funny"];
